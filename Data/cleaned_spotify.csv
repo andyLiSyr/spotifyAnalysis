@@ -1,0 +1,1900 @@
+Artist,Song,Year,Genre,Duration_mins,Popularity,Danceability,Valence
+Britney Spears,Oops!...I Did It Again,2000,pop,3.52,77,0.751,0.894
+Bon Jovi,It's My Life,2000,"rock, metal",3.74,78,0.551,0.544
+*NSYNC,Bye Bye Bye,2000,pop,3.34,65,0.614,0.879
+Eminem,The Real Slim Shady,2000,hip hop,4.74,86,0.949,0.76
+Robbie Williams,Rock DJ,2000,"pop, rock",4.31,68,0.708,0.861
+Modjo,Lady - Hear Me Tonight,2001,Dance/Electronic,5.12,77,0.72,0.869
+Gigi D'Agostino,L'Amour Toujours,2011,pop,3.98,1,0.617,0.808
+Bomfunk MC's,Freestyler,2000,pop,5.11,55,0.822,0.568
+Aaliyah,Try Again,2002,"hip hop, pop, R&B",4.73,53,0.797,0.731
+Alice Deejay,Better Off Alone,2000,pop,3.58,73,0.671,0.782
+Linkin Park,In the End,2000,"rock, metal",3.61,83,0.556,0.4
+Sonique,It Feels So Good,2000,pop,4.01,62,0.634,0.558
+M.O.P.,Cold as Ice,2000,hip hop,4.07,54,0.656,0.758
+Limp Bizkit,Take A Look Around,2000,metal,5.35,72,0.425,0.512
+Darude,Sandstorm,2001,"pop, Dance/Electronic",3.76,69,0.528,0.587
+Da Brat,What'chu Like (feat. Tyrese),2000,"hip hop, pop, R&B",3.69,53,0.879,0.817
+Moloko,The Time Is Now,2000,"pop, Dance/Electronic",5.3,54,0.682,0.546
+Chicane,Don't Give Up,2016,Dance/Electronic,3.51,47,0.644,0.53
+Debelah Morgan,Dance with Me,2000,"pop, R&B",3.67,49,0.85,0.74
+Madonna,Music,2000,pop,3.77,58,0.736,0.871
+Ruff Endz,No More,2000,R&B,4.04,52,0.839,0.927
+Kylie Minogue,Spinning Around,2000,"pop, Dance/Electronic",3.46,55,0.761,0.631
+LeAnn Rimes,I Need You,2001,"pop, country",3.83,61,0.478,0.564
+Avant,Separated,2000,"pop, R&B",4.26,55,0.798,0.643
+Toni Braxton,He Wasn't Man Enough,2000,"pop, R&B",4.37,66,0.739,0.766
+Bow Wow,Bounce With Me (feat. Xscape) - Edited Album Version,2000,"hip hop, pop, R&B",2.93,36,0.852,0.934
+Samantha Mumba,Gotta Tell You,2018,pop,3.37,43,0.729,0.774
+Mýa,Case Of The Ex (Whatcha Gonna Do),2000,"pop, R&B",3.95,59,0.772,0.348
+Mary Mary,Shackles (Praise You),2000,R&B,3.31,64,0.779,0.8
+Next,Wifey,2004,"hip hop, pop, R&B",4.06,52,0.829,0.726
+Janet Jackson,Doesn't Really Matter,2001,"pop, R&B",4.42,47,0.771,0.801
+Ricky Martin,She Bangs - English Version,2000,"pop, latin",4.68,60,0.63,0.858
+Jagged Edge,He Can't Love U,2000,"hip hop, pop, R&B",4.07,55,0.721,0.508
+JAY-Z,I Just Wanna Love U (Give It 2 Me),2000,hip hop,3.8,59,0.8,0.801
+Baha Men,Who Let The Dogs Out,2000,R&B,3.31,65,0.869,0.784
+LeAnn Rimes,Can't Fight The Moonlight,2001,"pop, country",3.59,65,0.628,0.626
+Oasis,Go Let It Out,2000,"Folk/Acoustic, rock",4.64,0,0.408,0.628
+DJ Ötzi,Hey Baby (Radio Mix),2010,"pop, easy listening, Dance/Electronic",3.65,58,0.666,0.834
+P!nk,Most Girls,2000,pop,4.98,52,0.742,0.694
+Mariah Carey,Against All Odds (Take A Look at Me Now) (feat. Westlife),2011,"pop, R&B",3.32,0,0.471,0.373
+Craig David,Fill Me In,2000,"hip hop, pop, R&B",4.29,60,0.682,0.827
+Madonna,American Pie,2000,pop,4.56,58,0.631,0.591
+Sammie,I Like It,2000,"hip hop, pop, R&B",4.18,55,0.826,0.852
+Craig David,7 Days,2000,"hip hop, pop, R&B",3.92,70,0.659,0.888
+Kandi,Don't Think I'm Not,2000,"pop, R&B",4.06,55,0.859,0.433
+P!nk,There You Go,2000,pop,3.38,55,0.822,0.668
+Vengaboys,Shalala Lala,2000,pop,3.58,58,0.751,0.973
+Ronan Keating,Life Is A Rollercoaster,2000,"pop, rock",3.91,59,0.655,0.862
+3 Doors Down,Kryptonite,2000,"pop, rock, metal",3.9,78,0.545,0.543
+Carl Thomas,I Wish,2000,"pop, R&B",3.78,52,0.736,0.224
+Mystikal,Shake Ya Ass,2000,"hip hop, pop",4.28,57,0.914,0.666
+Fuel,Hemorrhage (In My Hands),2000,"rock, pop, metal",3.95,49,0.313,0.332
+Westlife,My Love,2000,pop,3.86,68,0.491,0.328
+All Saints,Pure Shores,2000,pop,4.48,62,0.631,0.407
+Destiny's Child,"Independent Women, Pt. 1",2001,"pop, R&B",3.69,65,0.73,0.927
+*NSYNC,It's Gonna Be Me,2000,pop,3.18,60,0.644,0.882
+Erykah Badu,Bag Lady,2000,"hip hop, R&B",5.81,54,0.724,0.578
+Matchbox Twenty,Bent,2000,"pop, rock",4.27,54,0.518,0.527
+Gabrielle,Rise,2001,"pop, R&B",3.65,60,0.558,0.631
+Backstreet Boys,Shape of My Heart,2000,pop,3.83,70,0.575,0.518
+The Corrs,Breathless,2000,"pop, Folk/Acoustic",3.46,68,0.607,0.768
+Joe,I Wanna Know,2000,"pop, R&B",4.94,65,0.725,0.599
+Britney Spears,Lucky,2000,pop,3.44,65,0.765,0.966
+Nelly,Country Grammar (Hot Shit),2000,"hip hop, pop, R&B",4.78,68,0.865,0.565
+Shaggy,It Wasn't Me,2000,"hip hop, pop",3.79,76,0.853,0.654
+Destiny's Child,Survivor,2001,"pop, R&B",4.23,70,0.514,0.619
+Eminem,Stan,2000,hip hop,6.74,83,0.78,0.507
+Kylie Minogue,Can't Get You out of My Head,2001,"pop, Dance/Electronic",3.84,73,0.766,0.964
+Christina Aguilera,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",2001,pop,4.41,68,0.76,0.653
+Nelly Furtado,I'm Like A Bird,2000,"hip hop, pop, latin",4.05,1,0.622,0.607
+Shakira,"Whenever, Wherever",2001,"pop, latin",3.27,74,0.794,0.871
+Jimmy Eat World,The Middle,2001,"rock, pop",2.76,78,0.643,0.903
+Train,Drops of Jupiter (Tell Me),2001,pop,4.33,77,0.481,0.497
+Geri Halliwell,It's Raining Men,2001,pop,4.24,62,0.637,0.604
+Blu Cantrell,Hit 'Em Up Style (Oops!),2001,"pop, R&B",4.18,71,0.667,0.667
+Britney Spears,I'm a Slave 4 U,2001,pop,3.39,69,0.847,0.963
+Kylie Minogue,In Your Eyes,2001,"pop, Dance/Electronic",3.3,62,0.689,0.709
+Missy Elliott,One Minute Man (feat. Ludacris),2001,"hip hop, pop, R&B",4.22,57,0.622,0.57
+Mary J. Blige,Family Affair,2001,"pop, R&B",4.43,76,0.911,0.969
+Faithless,We Come 1 - Radio Edit,2015,"pop, Dance/Electronic",3.71,53,0.645,0.61
+Limp Bizkit,Rollin' (Air Raid Vehicle),2000,metal,3.56,73,0.603,0.709
+Lasgo,Something,2001,pop,3.68,65,0.643,0.38
+iio,Rapture (feat.Nadia Ali),2006,Dance/Electronic,4.23,54,0.661,0.601
+Emma Bunton,What Took You So Long?,2001,pop,4.02,54,0.668,0.911
+112,It's Over Now,2001,"hip hop, pop, R&B",4.42,57,0.66,0.233
+Blue,All Rise,2001,pop,3.73,63,0.721,0.931
+Jessica Simpson,Irresistible,2001,"pop, R&B",3.23,43,0.657,0.669
+Michael Jackson,You Rock My World,2001,"pop, R&B",5.63,64,0.854,0.955
+Eve,Let Me Blow Ya Mind,2001,"hip hop, pop, R&B",3.84,73,0.908,0.897
+Jennifer Lopez,Ain't It Funny,2001,"hip hop, pop, R&B",4.1,0,0.707,0.621
+Brandy,Another Day in Paradise - R&B-Version,2002,"hip hop, pop, R&B",4.53,50,0.7,0.556
+Nickelback,How You Remind Me,2001,"rock, metal",3.73,78,0.446,0.543
+Daft Punk,One More Time,2001,"hip hop, Dance/Electronic",5.34,76,0.613,0.476
+Outkast,Ms. Jackson,2000,"hip hop, pop",4.51,82,0.843,0.613
+Fragma,Everytime You Need Me - Radio Version,2001,"pop, Dance/Electronic",3.56,50,0.682,0.79
+Mariah Carey,Loverboy,2001,"pop, R&B",3.82,42,0.721,0.821
+Joe,Stutter (feat. Mystikal) - Double Take Remix,2000,"pop, R&B",3.55,57,0.767,0.677
+P.O.D.,Youth of the Nation,2001,"rock, metal",4.27,69,0.563,0.517
+Jennifer Lopez,Play,2001,"hip hop, pop, R&B",3.52,57,0.775,0.895
+Missy Elliott,Get Ur Freak On,2001,"hip hop, pop, R&B",3.52,68,0.797,0.74
+Ricky Martin,Nobody Wants to Be Lonely (with Christina Aguilera),2008,"pop, latin",4.21,52,0.635,0.59
+Christina Milian,AM To PM,2001,"hip hop, pop, R&B",3.85,60,0.872,0.822
+Roger Sanchez,Another Chance,2000,Dance/Electronic,7.55,50,0.61,0.45
+Gorillaz,Clint Eastwood,2001,hip hop,5.68,74,0.663,0.525
+2Pac,Until The End Of Time,2001,hip hop,4.44,57,0.757,0.375
+Tamia,Stranger in My House,2000,"pop, R&B",4.76,48,0.676,0.206
+Mary J. Blige,No More Drama,2001,"pop, R&B",5.44,61,0.653,0.64
+Jennifer Lopez,Love Don't Cost a Thing,2001,"hip hop, pop, R&B",3.69,67,0.786,0.685
+Jamiroquai,Little L,2001,pop,4.92,65,0.878,0.904
+Case,Missing You,2001,"hip hop, pop, R&B",4.74,55,0.612,0.716
+112,Peaches & Cream,2001,"hip hop, pop, R&B",3.22,63,0.677,0.768
+Five,Let's Dance - Radio Edit,2001,pop,3.64,47,0.631,0.547
+Rui Da Silva,Touch Me (Radio Edit) [feat. Cassandra],2001,Dance/Electronic,3.55,54,0.464,0.695
+Alien Ant Farm,Smooth Criminal,2001,"rock, metal",3.49,75,0.653,0.87
+Erick Sermon,Music (feat. Marvin Gaye),2001,"hip hop, pop",3.72,57,0.897,0.884
+D12,Purple Pills,2001,"hip hop, pop, rock",5.08,68,0.78,0.754
+Usher,Pop Ya Collar - Radio Edit,2016,"hip hop, pop, R&B",3.51,26,0.888,0.866
+Madonna,Don't Tell Me,2000,pop,4.68,53,0.699,0.679
+Blue,If You Come Back,2001,pop,3.46,58,0.582,0.701
+Atomic Kitten,Eternal Flame - Single Version,2001,pop,3.26,58,0.578,0.408
+Jagged Edge,Where the Party At (feat. Nelly),2001,"hip hop, pop, R&B",3.88,67,0.596,0.86
+Afroman,Because I Got High,2001,hip hop,3.3,68,0.802,0.849
+S Club 7,Don't Stop Movin',2001,pop,3.89,63,0.822,0.91
+Nelly Furtado,Turn Off The Light,2000,"hip hop, pop, latin",4.6,1,0.587,0.65
+The Supermen Lovers,Starlight - Radio Edit,2001,Dance/Electronic,3.91,61,0.739,0.786
+Mis-Teeq,All I Want - Sunship Radio Edit,2004,"pop, Dance/Electronic",3.46,46,0.795,0.96
+Jagged Edge,Promise,2000,"hip hop, pop, R&B",4.11,56,0.751,0.646
+S Club 7,Have You Ever,2001,pop,3.36,60,0.585,0.51
+Enya,Only Time,2000,"World/Traditional, Folk/Acoustic",3.64,69,0.418,0.213
+Faith Hill,There You'll Be,2001,"pop, country",3.7,60,0.321,0.17
+Ronan Keating,Lovin' Each Day,2000,"pop, rock",3.55,58,0.541,0.829
+Destiny's Child,Bootylicious,2001,"pop, R&B",3.47,64,0.84,0.637
+Steps,It's the Way You Make Me Feel,2000,"pop, Dance/Electronic",3.29,53,0.573,0.347
+Sunshine Anderson,Heard It All Before,2001,"pop, R&B",4.93,56,0.697,0.678
+Lenny Kravitz,Again,2000,"rock, pop",3.86,68,0.55,0.789
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,2002,pop,2.71,46,0.836,0.941
+DB Boulevard,Point Of View - Radio Edit,2018,Dance/Electronic,3.85,0,0.676,0.275
+Janet Jackson,All For You,2001,"pop, R&B",5.5,65,0.753,0.73
+Atomic Kitten,Whole Again,2001,pop,3.08,66,0.747,0.567
+Ja Rule,Livin' It Up,2001,"hip hop, pop, R&B",4.28,64,0.874,0.636
+DJ Pied Piper & The Masters Of Ceremonies,Do You Really Like It? - Radio Edit,2001,Dance/Electronic,3.62,54,0.847,0.764
+Jennifer Lopez,I'm Real (feat. Ja Rule) - Murder Remix,2001,"hip hop, pop, R&B",4.37,66,0.708,0.554
+Musiq Soulchild,Love,2000,"pop, R&B",5.08,0,0.569,0.339
+So Solid Crew,21 Seconds,2001,Dance/Electronic,5.05,51,0.607,0.818
+Robbie Williams,Eternity,2001,"pop, rock",5.05,48,0.469,0.199
+Basement Jaxx,Romeo,2001,"pop, Dance/Electronic",3.62,0,0.713,0.844
+Ludacris,Southern Hospitality (Featuring Pharrell),2000,"hip hop, pop",5.02,54,0.623,0.613
+Nelly,Ride Wit Me,2000,"hip hop, pop, R&B",4.86,75,0.85,0.722
+Trick Daddy,I'm a Thug,2001,"hip hop, pop",4.24,59,0.933,0.586
+Travis,Sing,2001,"rock, pop",3.81,68,0.33,0.259
+JAY-Z,Izzo (H.O.V.A.),2001,hip hop,4.01,63,0.618,0.697
+Gabrielle,Out Of Reach,2001,"pop, R&B",3.28,69,0.51,0.496
+OPM,Heaven Is a Halfpipe (If I Die),2000,rock,4.29,56,0.743,0.77
+K-Ci & JoJo,Crazy,2019,"pop, R&B",4.38,30,0.68,0.484
+Staind,It's Been Awhile,2001,"rock, metal",4.41,64,0.509,0.0824
+3LW,No More (Baby I'ma Do Right),2000,"pop, R&B",4.39,56,0.721,0.761
+Ginuwine,Differences,2001,"hip hop, pop, R&B",4.43,65,0.562,0.423
+*NSYNC,Gone,2001,pop,4.87,45,0.699,0.5
+Lifehouse,Hanging By A Moment,2000,"pop, rock, metal",3.61,61,0.537,0.502
+Nelly,Dilemma,2002,"hip hop, pop, R&B",4.82,77,0.727,0.607
+Eminem,Without Me,2002,hip hop,4.84,87,0.908,0.662
+Avril Lavigne,Complicated,2002,pop,4.08,78,0.585,0.427
+Vanessa Carlton,A Thousand Miles,2002,"Folk/Acoustic, pop",3.96,75,0.56,0.268
+The Calling,Wherever You Will Go,2001,pop,3.48,72,0.558,0.371
+Shakira,Underneath Your Clothes,2001,"pop, latin",3.73,64,0.616,0.362
+No Doubt,Underneath It All,2001,"rock, pop",5.05,27,0.729,0.839
+Truth Hurts,Addictive,2002,"pop, R&B",3.77,58,0.701,0.367
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),2002,"hip hop, pop",5.41,68,0.648,0.518
+Eminem,'Till I Collapse,2002,hip hop,4.96,85,0.548,0.1
+Diddy,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",2004,"hip hop, pop",4.76,69,0.713,0.779
+Christina Milian,When You Look At Me - Radio Edit,2001,"hip hop, pop, R&B",3.71,60,0.955,0.825
+Madonna,Die Another Day,2003,pop,4.61,53,0.792,0.491
+Jennifer Lopez,I'm Gonna Be Alright (feat. Nas),2002,"hip hop, pop, R&B",2.87,53,0.718,0.774
+Angie Martinez,If I Could Go! (feat. Lil' Mo & Sacario),2019,pop,4.07,40,0.583,0.7
+Las Ketchup,The Ketchup Song (Aserejé) - Spanglish Version,2002,set(),3.57,66,0.607,0.868
+Aaliyah,Rock The Boat,2019,"hip hop, pop, R&B",4.58,0,0.641,0.418
+Holly Valance,Kiss Kiss,2002,"pop, Dance/Electronic",3.41,54,0.705,0.554
+Sugababes,Round Round,2002,"pop, R&B",3.94,59,0.74,0.749
+Marilyn Manson,Tainted Love,2003,"rock, metal",3.34,60,0.622,0.537
+Brandy,What About Us?,2002,"hip hop, pop, R&B",4.22,43,0.686,0.748
+Chad Kroeger,Hero (feat. Josey Scott),2003,metal,3.34,66,0.427,0.304
+Britney Spears,Overprotected - Radio Edit,2001,pop,3.31,61,0.682,0.845
+Scooter,The Logical Song,2013,"pop, Dance/Electronic",3.9,46,0.527,0.493
+Missy Elliott,4 My People (feat. Eve),2001,"hip hop, pop, R&B",4.82,49,0.969,0.905
+Aaliyah,More Than A Woman,2002,"hip hop, pop, R&B",3.84,42,0.646,0.74
+Brandy,Full Moon,2002,"hip hop, pop, R&B",4.15,52,0.611,0.609
+Blue,One Love,2002,pop,3.45,60,0.683,0.854
+Busta Rhymes,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,2001,"hip hop, pop",3.98,55,0.697,0.56
+Céline Dion,A New Day Has Come - Radio Remix,2001,pop,4.33,59,0.574,0.195
+Scooter,Nessaja,2013,"pop, Dance/Electronic",3.47,47,0.486,0.118
+Eve,Gangsta Lovin',2002,"hip hop, pop, R&B",3.99,58,0.723,0.827
+Disturbing Tha Peace,Move Bitch,2002,"hip hop, pop",4.54,59,0.777,0.191
+Khia,"My Neck, My Back (Lick It)",2015,"pop, R&B",3.71,59,0.859,0.71
+Tweet,Oops (Oh My) [feat. Missy Elliott],2002,"hip hop, pop, R&B",3.96,64,0.66,0.775
+Nelly,Hot In Herre,2002,"hip hop, pop, R&B",3.8,75,0.956,0.912
+Gareth Gates,Anyone of Us (Stupid Mistake),2003,pop,3.8,53,0.7,0.654
+Christina Aguilera,Dirrty (feat. Redman),2002,pop,4.98,68,0.64,0.436
+B2K,Uh Huh,2002,"hip hop, pop, R&B",3.72,49,0.855,0.908
+Sugababes,Freak Like Me,2002,"pop, R&B",3.26,45,0.517,0.387
+Dirty Vegas,Days Go By,2002,Dance/Electronic,7.2,48,0.786,0.309
+Fat Joe,What's Luv? (feat. Ja-Rule & Ashanti),2001,"hip hop, pop",4.45,73,0.835,0.919
+Liberty X,Just A Little,2019,pop,3.96,43,0.786,0.742
+No Doubt,Hella Good,2001,"rock, pop",4.04,26,0.771,0.844
+LL Cool J,Luv U Better,2002,"hip hop, pop, R&B",4.78,2,0.668,0.721
+Red Hot Chili Peppers,Can't Stop,2002,rock,4.48,80,0.618,0.875
+Musiq Soulchild,Halfcrazy,2002,"pop, R&B",4.24,58,0.412,0.418
+Sean Paul,Gimme the Light,2002,"hip hop, pop",3.8,59,0.778,0.923
+Faith Evans,I Love You,2001,"hip hop, pop, R&B",4.45,53,0.489,0.567
+Charli Baltimore,Down 4 U,2002,pop,5.3,47,0.64,0.519
+Kylie Minogue,Love at First Sight,2001,"pop, Dance/Electronic",3.97,55,0.603,0.48
+N.O.R.E.,Nothin',2002,"hip hop, pop",4.41,58,0.791,0.742
+Gareth Gates,Unchained Melody,2003,pop,3.89,35,0.368,0.208
+Diddy,I Need a Girl (Pt. 1) [feat. Usher & Loon],2005,"hip hop, pop",4.48,63,0.66,0.761
+Big Brovaz,Nu Flow,2001,pop,3.36,45,0.783,0.784
+No Doubt,Hey Baby,2001,"rock, pop",3.45,24,0.705,0.746
+Ashanti,Baby,2002,"hip hop, pop, R&B",4.43,55,0.567,0.46
+Sophie Ellis-Bextor,Murder On The Dancefloor,2002,"pop, Dance/Electronic",3.83,62,0.734,0.863
+Justin Timberlake,Like I Love You,2002,pop,4.73,62,0.853,0.9
+Mary J. Blige,Rainy Dayz,2001,"pop, R&B",4.61,32,0.412,0.533
+A1,Caught in the Middle,2001,pop,3.44,53,0.519,0.572
+Eminem,Cleanin' Out My Closet,2002,hip hop,4.96,71,0.908,0.87
+Ashanti,Happy,2002,"hip hop, pop, R&B",4.37,61,0.727,0.695
+Delta Goodrem,Born to Try,2003,pop,4.19,54,0.542,0.336
+P!nk,Get the Party Started,2001,pop,3.21,68,0.802,0.96
+Alicia Keys,A Woman's Worth,2001,"pop, R&B",5.06,52,0.652,0.495
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,2002,pop,2.69,56,0.838,0.924
+Coldplay,Clocks,2002,"rock, pop",5.13,79,0.577,0.255
+Missy Elliott,Work It,2002,"hip hop, pop, R&B",4.39,70,0.884,0.584
+Ronan Keating,If Tomorrow Never Comes,2002,"pop, rock",3.57,60,0.555,0.27
+Big Tymers,Still Fly,2002,"hip hop, pop",5.59,64,0.675,0.56
+Creed,My Sacrifice,2001,"pop, rock, metal",4.91,69,0.32,0.257
+Ja Rule,Always On Time,2001,"hip hop, pop, R&B",4.09,73,0.839,0.839
+Ashanti,Foolish,2002,"hip hop, pop, R&B",3.79,70,0.665,0.707
+Avril Lavigne,Sk8er Boi,2002,pop,3.4,75,0.487,0.484
+DJ Sammy,Heaven,2002,pop,3.89,63,0.571,0.601
+Britney Spears,"I'm Not a Girl, Not Yet a Woman",2001,pop,3.85,58,0.534,0.418
+Cam’ron,Oh Boy,2002,"hip hop, pop",3.41,67,0.754,0.828
+Red Hot Chili Peppers,By the Way,2002,rock,3.62,73,0.451,0.198
+Elvis Presley,A Little Less Conversation - JXL Radio Edit Remix,2002,"rock, easy listening",3.53,60,0.597,0.717
+Atomic Kitten,The Tide Is High - Radio Mix,2002,pop,3.43,65,0.783,0.665
+*NSYNC,Girlfriend,2001,pop,4.23,50,0.745,0.858
+Robbie Williams,Somethin' Stupid,2001,"pop, rock",2.84,64,0.654,0.677
+Alanis Morissette,Hands Clean,2002,"pop, Folk/Acoustic",4.49,57,0.513,0.52
+Usher,U Don't Have to Call,2001,"hip hop, pop, R&B",4.49,59,0.793,0.806
+Creed,One Last Breath - Radio Version,2015,"pop, rock, metal",4.03,47,0.38,0.202
+The Goo Goo Dolls,Here Is Gone,2002,"pop, rock",3.97,56,0.338,0.221
+Puddle Of Mudd,She Hates Me,2001,"rock, metal",3.61,70,0.58,0.584
+Ludacris,Rollout (My Business),2001,"hip hop, pop",4.94,60,0.921,0.892
+Blazin' Squad,Crossroads - Radio Edit,2012,set(),3.14,40,0.661,0.502
+Default,Wasting My Time,2001,"rock, pop, metal",4.48,40,0.443,0.17
+Michelle Branch,All You Wanted,2001,"pop, Folk/Acoustic",3.63,60,0.499,0.652
+Daniel Bedingfield,If You're Not The One,2002,pop,4.28,58,0.688,0.27
+Enrique Iglesias,Escape,2001,"pop, latin",3.48,56,0.776,0.868
+Puddle Of Mudd,Blurry,2001,"rock, metal",5.07,64,0.432,0.499
+Coldplay,In My Place,2002,"rock, pop",3.78,72,0.424,0.193
+Outkast,The Whole World (feat. Killer Mike),2001,"hip hop, pop",4.92,51,0.814,0.717
+P!nk,Don't Let Me Get Me - Radio Edit,2001,pop,3.51,60,0.624,0.615
+50 Cent,In Da Club,2003,"hip hop, pop",3.22,81,0.899,0.777
+Sean Paul,Get Busy,2002,"hip hop, pop",3.53,74,0.735,0.726
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",2004,hip hop,5.37,77,0.686,0.0596
+Beyoncé,Crazy In Love (feat. Jay-Z),2003,"pop, R&B",3.94,76,0.646,0.681
+Counting Crows,Big Yellow Taxi,2003,"rock, pop",3.76,50,0.669,0.827
+Black Eyed Peas,Where Is The Love?,2003,"hip hop, pop",4.54,68,0.835,0.828
+Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,2002,"hip hop, pop, R&B",3.13,70,0.845,0.96
+Black Eyed Peas,Shut Up,2003,"hip hop, pop",4.94,56,0.81,0.561
+Benny Benassi,Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,2003,"pop, Dance/Electronic",4.76,66,0.793,0.339
+Panjabi MC,Mundian to Bach Ke,2003,"World/Traditional, hip hop",4.08,61,0.778,0.942
+Mis-Teeq,Scandalous - U.S. Radio Edit,2004,"pop, Dance/Electronic",3.98,59,0.734,0.651
+JAY-Z,03' Bonnie & Clyde,2002,hip hop,3.43,71,0.759,0.327
+50 Cent,P.I.M.P.,2003,"hip hop, pop",4.16,76,0.712,0.848
+Jamelia,Superstar,2003,pop,3.59,69,0.801,0.824
+Linkin Park,Faint,2003,"rock, metal",2.71,72,0.554,0.594
+DMX,X Gon' Give It To Ya,2007,"hip hop, pop",3.63,70,0.761,0.673
+Evanescence,Bring Me To Life,2003,metal,3.93,79,0.331,0.296
+Sugababes,Hole In The Head,2003,"pop, R&B",3.64,57,0.785,0.962
+Craig David,Rise & Fall (feat. Sting),2002,"hip hop, pop, R&B",4.79,59,0.405,0.808
+Three Days Grace,I Hate Everything About You,2003,"rock, metal",3.86,72,0.498,0.453
+Lil Jon & The East Side Boyz,Get Low,2002,"hip hop, pop",5.41,47,0.78,0.12
+B2K,"Bump, Bump, Bump (feat. P. Diddy)",2003,"hip hop, pop, R&B",4.71,62,0.835,0.889
+Baby Bash,Suga Suga,2003,"hip hop, pop, R&B, latin",3.98,73,0.662,0.535
+Aaliyah,Miss You - Main,2002,"hip hop, pop, R&B",4.09,36,0.602,0.511
+Britney Spears,Me Against the Music (feat. Madonna) - LP Version / Video Mix,2003,pop,3.73,59,0.804,0.85
+Blue,Sorry Seems To Be The Hardest Word,2004,pop,3.5,57,0.564,0.442
+Delta Goodrem,Lost Without You,2003,pop,4.14,54,0.581,0.514
+Justin Timberlake,Rock Your Body,2002,pop,4.45,76,0.892,0.817
+The White Stripes,Seven Nation Army,2003,"rock, blues",3.87,3,0.741,0.313
+Youngbloodz,Damn! (feat. Lil' Jon) - Club Mix,2003,"hip hop, pop",4.98,54,0.772,0.518
+Beyoncé,Baby Boy (feat. Sean Paul),2003,"pop, R&B",4.08,63,0.655,0.791
+Lil' Kim,Magic Stick,2019,"hip hop, pop, R&B",6.0,47,0.849,0.502
+Christina Aguilera,Can't Hold Us Down (feat. Lil' Kim),2002,pop,4.25,61,0.859,0.538
+Nickelback,Someday,2003,"rock, metal",3.46,68,0.455,0.597
+Blue,U Make Me Wanna - Radio Edit,2003,pop,3.71,48,0.6,0.848
+Ashanti,Rain On Me,2003,"hip hop, pop, R&B",4.97,50,0.606,0.509
+Trapt,Headstrong,2002,"rock, metal",4.76,72,0.492,0.534
+Simply Red,Sunrise,2008,"rock, R&B, Folk/Acoustic, pop",3.32,58,0.791,0.917
+Lumidee,"Never Leave You (Uh Oooh, Uh Oooh)",2003,"pop, R&B",3.08,61,0.811,0.777
+Girls Aloud,Sound Of The Underground,2003,"pop, Dance/Electronic",3.69,58,0.568,0.88
+Nelly,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,2016,"hip hop, pop, R&B",4.89,52,0.527,0.907
+Room 5,Make Luv,2003,Dance/Electronic,3.54,57,0.883,0.648
+Fatman Scoop,Be Faithful,2009,hip hop,2.74,49,0.649,0.629
+Limp Bizkit,Behind Blue Eyes,2003,metal,4.5,70,0.595,0.0902
+Sugababes,Too Lost In You,2003,"pop, R&B",3.96,58,0.586,0.459
+50 Cent,"Wanksta - From ""8 Mile"" Soundtrack",2003,"hip hop, pop",3.66,57,0.802,0.873
+Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,2003,"hip hop, pop",3.94,67,0.894,0.759
+Chingy,Right Thurr,2003,"hip hop, pop, R&B",4.18,69,0.866,0.891
+Eminem,Sing For The Moment,2002,hip hop,5.66,71,0.668,0.185
+Lil' Kim,The Jump Off (feat. Mr. Cheeks) - Remix,2003,"hip hop, pop, R&B",3.91,48,0.853,0.935
+Mýa,My Love Is Like...Wo - Main Mix,2003,"pop, R&B",3.49,48,0.831,0.722
+50 Cent,21 Questions,2003,"hip hop, pop",3.74,72,0.646,0.895
+Nelly,Air Force Ones,2002,"hip hop, pop, R&B",5.07,61,0.784,0.618
+Missy Elliott,Gossip Folks (feat. Ludacris),2002,"hip hop, pop, R&B",3.91,57,0.707,0.439
+Girls Aloud,Jump,2003,"pop, Dance/Electronic",3.67,60,0.658,0.795
+Ultrabeat,Pretty Green Eyes - Radio Edit,2003,"pop, Dance/Electronic",3.37,59,0.553,0.51
+Christina Aguilera,Fighter,2002,pop,4.1,67,0.435,0.45
+Frankie J,Don't Wanna Try,2003,"hip hop, pop, R&B",4.09,49,0.655,0.199
+Snoop Dogg,Beautiful,2005,"hip hop, pop",4.99,67,0.893,0.963
+Floetry,Say Yes,2002,"hip hop, pop, R&B",4.47,57,0.747,0.428
+Ginuwine,In Those Jeans,2003,"hip hop, pop, R&B",4.06,59,0.691,0.319
+Electric Six,Danger! High Voltage - Soulchild Radio Mix,2003,rock,3.58,0,0.66,0.511
+Rachel Stevens,Sweet Dreams My LA Ex - Radio Edit,2003,"pop, Dance/Electronic",3.47,38,0.85,0.908
+Ludacris,Stand Up,2003,"hip hop, pop",3.56,57,0.751,0.801
+Nas,I Can,2002,hip hop,4.23,58,0.837,0.694
+3 Doors Down,When I'm Gone,2002,"pop, rock, metal",4.34,67,0.53,0.374
+Tyrese,How You Gonna Act Like That,2002,"hip hop, pop, R&B",4.91,60,0.733,0.525
+Justin Timberlake,Cry Me a River,2002,pop,4.81,73,0.624,0.564
+Westlife,Mandy,2003,pop,3.32,57,0.447,0.376
+No Doubt,It's My Life,2003,"rock, pop",3.77,60,0.612,0.783
+Amanda Perez,Angel,2003,"pop, R&B",3.65,48,0.638,0.352
+JAY-Z,Excuse Me Miss,2002,hip hop,4.69,56,0.714,0.887
+Kelly Rowland,Stole,2002,"hip hop, pop, R&B",4.15,54,0.649,0.477
+Ashanti,Rock Wit U (Awww Baby),2003,"hip hop, pop, R&B",3.49,65,0.71,0.849
+Junior Senior,Move Your Feet,2002,pop,3.03,67,0.747,0.846
+Audioslave,Like a Stone,2002,"rock, metal",4.9,75,0.614,0.516
+Sean Paul,Like Glue,2002,"hip hop, pop",3.88,61,0.757,0.59
+Jaheim,Put That Woman First,2002,"pop, R&B",4.1,55,0.649,0.513
+Jennifer Lopez,All I Have (feat. LL Cool J),2002,"hip hop, pop, R&B",4.24,60,0.701,0.446
+Monica,So Gone,2003,"pop, R&B",4.05,64,0.618,0.586
+Dido,White Flag,2003,pop,4.0,44,0.512,0.294
+The Roots,The Seed (2.0),2002,hip hop,4.47,63,0.758,0.966
+Chingy,Holidae In,2003,"hip hop, pop, R&B",5.24,61,0.81,0.948
+Fabolous,Can't Let You Go (feat. Mike Shorey & Lil' Mo),2003,"hip hop, pop, R&B",3.73,61,0.646,0.811
+Kelly Clarkson,Miss Independent,2003,"pop, R&B",3.58,47,0.656,0.592
+Ja Rule,Mesmerize,2002,"hip hop, pop, R&B",4.64,61,0.769,0.433
+Matchbox Twenty,Unwell,2002,"pop, rock",3.81,63,0.256,0.429
+Outkast,The Way You Move (feat. Sleepy Brown),2003,"hip hop, pop",3.9,66,0.871,0.635
+Fabolous,Into You (feat. Tamia),2003,"hip hop, pop, R&B",4.93,67,0.546,0.58
+Switchfoot,Meant to Live,2003,"rock, pop",3.36,61,0.397,0.556
+Good Charlotte,Lifestyles of the Rich & Famous,2002,"rock, metal",3.17,68,0.62,0.609
+Wayne Wonder,No Letting Go,2003,"hip hop, R&B",3.37,63,0.496,0.317
+The Strokes,Reptilia,2003,rock,3.66,74,0.489,0.77
+Avril Lavigne,I'm with You,2002,pop,3.72,70,0.457,0.208
+Will Young,Leave Right Now,2003,pop,3.58,55,0.641,0.383
+Usher,Yeah! (feat. Lil Jon & Ludacris),2004,"hip hop, pop, R&B",4.17,81,0.894,0.583
+Maroon 5,This Love,2002,pop,3.44,77,0.712,0.809
+Britney Spears,Toxic,2003,pop,3.31,81,0.774,0.924
+Outkast,Hey Ya!,2003,"hip hop, pop",3.92,80,0.727,0.965
+Hoobastank,The Reason,2003,"pop, rock, metal",3.88,79,0.472,0.0681
+Anastacia,Left Outside Alone,2004,pop,4.29,65,0.663,0.325
+Daddy Yankee,Gasolina,2004,latin,3.21,11,0.857,0.753
+Black Eyed Peas,Let's Get It Started - Spike Mix,2004,"hip hop, pop",3.63,53,0.785,0.797
+O-Zone,Dragostea Din Tei,2004,pop,3.59,56,0.809,0.672
+Terror Squad,Lean Back,2004,hip hop,4.12,67,0.783,0.695
+Gwen Stefani,What You Waiting For?,2004,"pop, R&B",3.69,60,0.676,0.731
+Ashanti,Only U - No Intro,2004,"hip hop, pop, R&B",3.11,56,0.601,0.278
+The Rasmus,In the Shadows,2003,metal,4.3,68,0.6,0.75
+Houston,I Like That,2004,"hip hop, pop",3.94,59,0.797,0.385
+Beyoncé,Naughty Girl,2003,"pop, R&B",3.48,63,0.735,0.643
+Linkin Park,Numb,2003,"rock, metal",3.09,81,0.496,0.243
+Lloyd Banks,On Fire,2004,"hip hop, pop",3.12,61,0.759,0.429
+Akon,Locked Up,2004,pop,3.92,16,0.818,0.354
+D12,My Band,2004,"hip hop, pop, rock",4.98,73,0.851,0.844
+Jay Sean,Eyes On You - Radio Mix,2004,"hip hop, pop, R&B",3.17,42,0.802,0.619
+Mario Winans,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,2016,pop,4.29,66,0.833,0.4
+Destiny's Child,Lose My Breath,2004,"pop, R&B",4.03,61,0.814,0.545
+Eric Prydz,Call on Me - Radio Mix,2004,"pop, Dance/Electronic",2.86,72,0.597,0.447
+Ciara,Goodies (feat. Petey Pablo),2004,"pop, R&B",3.72,67,0.826,0.872
+Kelis,Trick Me,2003,"pop, R&B, Dance/Electronic",3.44,63,0.97,0.962
+LL Cool J,Headsprung,2004,"hip hop, pop, R&B",4.46,56,0.718,0.465
+Spiderbait,Black Betty - Edit,2004,rock,3.43,63,0.562,0.35
+George Michael,Amazing,2004,set(),4.43,57,0.805,0.88
+Britney Spears,My Prerogative,2004,pop,3.56,53,0.749,0.619
+Nina Sky,Move Ya Body,2004,"pop, R&B",3.87,67,0.87,0.877
+Petey Pablo,Freek-A-Leek,2003,"hip hop, pop",3.92,56,0.737,0.662
+JAY-Z,Dirt Off Your Shoulder,2003,hip hop,4.09,53,0.779,0.645
+Juanes,La Camisa Negra,2004,"pop, latin",3.61,70,0.751,0.973
+Avril Lavigne,Nobody's Home,2004,pop,3.54,61,0.348,0.177
+Robbie Williams,Radio,2004,"pop, rock",3.89,33,0.607,0.846
+Black Eyed Peas,Hey Mama,2003,"hip hop, pop",3.58,49,0.86,0.933
+Ying Yang Twins,Salt Shaker,2003,"hip hop, pop",4.21,61,0.884,0.322
+Enrique Iglesias,Not In Love - Radio Mix,2003,"pop, latin",3.72,37,0.762,0.886
+Kelis,Milkshake,2003,"pop, R&B, Dance/Electronic",3.04,68,0.881,0.759
+Linkin Park,Breaking the Habit,2003,"rock, metal",3.28,68,0.579,0.581
+JoJo,Leave (Get Out) - Radio Edit,2005,"hip hop, pop, R&B",4.05,49,0.656,0.464
+Christina Milian,Dip It Low,2004,"hip hop, pop, R&B",3.29,45,0.752,0.612
+Avant,Read Your Mind,2003,"pop, R&B",4.39,56,0.755,0.695
+Eminem,Just Lose It,2004,hip hop,4.14,67,0.94,0.962
+Snoop Dogg,Drop It Like It's Hot,2004,"hip hop, pop",4.43,39,0.892,0.676
+Sean Paul,I'm Still in Love with You (feat. Sasha),2002,"hip hop, pop",4.56,68,0.765,0.756
+The Shapeshifters,Lola's Theme - Radio Edit,2004,Dance/Electronic,3.45,65,0.748,0.659
+D12,How Come,2004,"hip hop, pop, rock",4.16,57,0.745,0.547
+Basement Jaxx,Good Luck,2003,"pop, Dance/Electronic",4.71,0,0.571,0.313
+Kevin Lyttle,Turn Me On,2004,hip hop,3.2,67,0.677,0.875
+Chingy,One Call Away,2003,"hip hop, pop, R&B",4.61,61,0.765,0.962
+T.I.,Bring Em Out,2004,"hip hop, pop",3.61,63,0.759,0.587
+DJ Casper,Cha Cha Slide - Hardino Mix,2004,set(),3.7,51,0.853,0.802
+Kylie Minogue,I Believe in You,2004,"pop, Dance/Electronic",3.35,47,0.548,0.418
+Twista,Overnight Celebrity,2004,"hip hop, pop, R&B",3.89,66,0.828,0.777
+N.E.R.D,She Wants To Move,2004,hip hop,3.56,57,0.766,0.8
+Britney Spears,Everytime,2003,pop,3.84,63,0.398,0.114
+U2,Vertigo,2004,"World/Traditional, rock",3.23,64,0.416,0.632
+Franz Ferdinand,Take Me Out,2004,rock,3.95,77,0.277,0.527
+J-Kwon,Tipsy - Club Mix,2001,"hip hop, pop",4.12,59,0.925,0.654
+G-Unit,Wanna Get To Know You,2003,"hip hop, pop",4.42,61,0.513,0.889
+Lil' Flip,Sunshine (feat. Lea),2004,"hip hop, pop",3.75,42,0.814,0.792
+Kanye West,Jesus Walks,2004,hip hop,3.23,73,0.637,0.715
+Evanescence,My Immortal,2003,metal,4.38,72,0.19,0.101
+Nelly,My Place,2004,"hip hop, pop, R&B",5.61,57,0.6,0.642
+Lemar,If There's Any Justice,2004,R&B,3.82,46,0.706,0.639
+Avril Lavigne,Don't Tell Me,2004,pop,3.37,58,0.523,0.484
+Twista,Slow Jamz,2004,"hip hop, pop, R&B",5.27,72,0.559,0.611
+Green Day,American Idiot,2004,rock,2.94,77,0.38,0.769
+Kelis,Millionaire,2003,"pop, R&B, Dance/Electronic",3.75,57,0.68,0.75
+Scissor Sisters,Comfortably Numb,2004,"pop, rock, Dance/Electronic",4.43,43,0.803,0.788
+Alicia Keys,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),2003,"pop, R&B",4.74,55,0.663,0.279
+Kanye West,Through The Wire,2004,hip hop,3.69,76,0.571,0.66
+Special D.,Come With Me - Radio Edit,2004,pop,3.09,61,0.739,0.501
+Ludacris,Splash Waterfalls,2003,"hip hop, pop",4.85,48,0.734,0.702
+Avril Lavigne,My Happy Ending,2004,pop,4.04,68,0.414,0.74
+Eamon,Fuck It (I Don't Want You Back),2004,set(),3.75,64,0.828,0.575
+Beyoncé,"Me, Myself and I",2003,"pop, R&B",5.02,62,0.75,0.536
+3 Doors Down,Here Without You,2002,"pop, rock, metal",3.98,74,0.557,0.233
+Kanye West,All Falls Down,2004,hip hop,3.73,80,0.657,0.434
+Twista,Sunshine (feat. Anthony Hamilton),2004,"hip hop, pop, R&B",3.77,56,0.926,0.819
+Katie Melua,The Closest Thing to Crazy,2003,"pop, easy listening, jazz",4.21,55,0.562,0.106
+Usher,My Boo,2004,"hip hop, pop, R&B",3.72,76,0.662,0.676
+Lloyd,Southside,2004,"hip hop, pop, R&B",4.63,59,0.688,0.448
+LMC,Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit,2004,Dance/Electronic,2.86,59,0.668,0.667
+The Streets,Fit but You Know It,2004,"hip hop, Dance/Electronic",4.24,58,0.68,0.895
+JUVENILE,Slow Motion,2003,"hip hop, pop",4.14,64,0.713,0.89
+Girls Aloud,Love Machine,2004,"pop, Dance/Electronic",3.42,59,0.663,0.697
+Jessica Simpson,With You,2003,"pop, R&B",3.2,57,0.553,0.605
+Eminem,Like Toy Soldiers,2004,hip hop,4.95,48,0.52,0.398
+Gary Jules,Mad World (Feat. Michael Andrews),2001,pop,3.16,65,0.345,0.304
+Ashlee Simpson,Pieces Of Me,2004,pop,3.62,56,0.505,0.772
+Alicia Keys,You Don't Know My Name,2003,"pop, R&B",6.11,61,0.264,0.249
+Mariah Carey,We Belong Together,2005,"pop, R&B",3.36,69,0.84,0.767
+Mario,Let Me Love You,2004,"pop, R&B",4.28,72,0.656,0.556
+Kanye West,Gold Digger,2005,hip hop,3.46,78,0.629,0.623
+Rihanna,Pon de Replay,2005,"hip hop, pop, R&B",4.12,77,0.779,0.498
+50 Cent,Candy Shop,2005,"hip hop, pop",3.49,79,0.614,0.755
+James Blunt,You're Beautiful,2005,pop,3.49,75,0.675,0.454
+Green Day,Boulevard of Broken Dreams,2004,rock,4.35,72,0.49,0.506
+The Pussycat Dolls,Don't Cha,2005,"pop, R&B",4.53,72,0.875,0.549
+Daniel Powter,Bad Day,2005,pop,3.89,74,0.599,0.52
+Akon,Bananza (Belly Dancer),2004,pop,3.97,28,0.878,0.666
+Madonna,Hung Up,2005,pop,5.63,74,0.649,0.405
+50 Cent,Just A Lil Bit,2005,"hip hop, pop",3.96,76,0.489,0.527
+Crazy Frog,Axel F,2005,pop,2.81,67,0.86,0.786
+Eminem,Ass Like That,2004,hip hop,4.42,52,0.646,0.676
+Sean Paul,We Be Burnin',2005,"hip hop, pop",3.55,59,0.95,0.86
+Gwen Stefani,Rich Girl,2004,"pop, R&B",3.94,68,0.856,0.722
+The Chemical Brothers,Galvanize,2005,Dance/Electronic,6.56,63,0.745,0.365
+Fort Minor,Remember the Name (feat. Styles of Beyond),2005,"hip hop, pop, rock",3.84,73,0.688,0.88
+50 Cent,Disco Inferno,2005,"hip hop, pop",3.57,72,0.925,0.71
+The Game,How We Do,2005,"hip hop, pop",3.93,74,0.862,0.637
+Chris Brown,Run It! (feat. Juelz Santana),2005,"hip hop, pop, R&B",3.83,71,0.846,0.212
+Mariah Carey,It's Like That,2005,"pop, R&B",3.39,0,0.8,0.836
+Black Eyed Peas,My Humps,2005,"hip hop, pop",5.45,67,0.802,0.586
+Ciara,Oh (feat. Ludacris),2004,"pop, R&B",4.27,61,0.8,0.357
+50 Cent,Outta Control - Remix,2005,"hip hop, pop",4.13,60,0.772,0.557
+Baby Bash,"Baby, I'm Back",2005,"hip hop, pop, R&B, latin",3.67,4,0.899,0.749
+Jennifer Lopez,Get Right,2005,"hip hop, pop, R&B",3.76,65,0.741,0.362
+JAY-Z,Numb / Encore,2004,hip hop,3.43,76,0.687,0.751
+The Game,Hate It Or Love It,2005,"hip hop, pop",3.44,77,0.802,0.435
+Gorillaz,Feel Good Inc.,2005,hip hop,3.71,82,0.818,0.772
+Black Eyed Peas,Don't Phunk With My Heart,2005,"hip hop, pop",4.0,62,0.69,0.604
+Akon,Lonely,2004,pop,3.93,21,0.629,0.619
+Bodyrockers,I Like The Way - Radio Edit,2005,"rock, Dance/Electronic",3.33,54,0.642,0.777
+Sugababes,Push The Button,2005,"pop, R&B",3.63,64,0.962,0.814
+Jeezy,Soul Survivor,2005,"hip hop, pop",4.67,55,0.684,0.08
+Eminem,Mockingbird,2004,hip hop,4.18,77,0.637,0.254
+Shakira,La Tortura (feat. Alejandro Sanz),2005,"pop, latin",3.55,72,0.74,0.812
+Gorillaz,DARE,2005,hip hop,4.08,73,0.76,0.966
+Snoop Dogg,Signs,2004,"hip hop, pop",3.95,54,0.94,0.666
+Robbie Williams,Tripping,2005,"pop, rock",4.61,58,0.666,0.828
+David Banner,Play,2005,"hip hop, pop",3.84,52,0.837,0.586
+Trillville,Some Cut,2004,"hip hop, pop",4.72,50,0.9,0.659
+D4L,Laffy Taffy,2005,"hip hop, pop",3.74,63,0.891,0.622
+Missy Elliott,Lose Control (feat. Ciara & Fat Man Scoop),2005,"hip hop, pop, R&B",3.78,67,0.904,0.81
+Rob Thomas,Lonely No More,2005,"pop, Folk/Acoustic",3.78,56,0.551,0.858
+Brian McFadden,Almost Here,2004,set(),3.83,42,0.561,0.316
+Bobby V.,"Slow Down - 12"" Version",2005,"hip hop, pop, R&B",4.31,65,0.568,0.626
+Backstreet Boys,Incomplete,2005,pop,3.99,63,0.437,0.165
+Pretty Ricky,Grind With Me,2005,"hip hop, pop, R&B",3.96,63,0.7,0.189
+Kanye West,Diamonds From Sierra Leone - Remix,2005,hip hop,3.89,61,0.672,0.379
+Fat Joe,Get It Poppin' (feat. Nelly) - Radio Version,2005,"hip hop, pop",3.52,41,0.905,0.52
+Destiny's Child,Soldier (feat. T.I. & Lil' Wayne),2004,"pop, R&B",5.43,63,0.878,0.904
+Ciara,"1, 2 Step (feat. Missy Elliott) - Main",2005,"pop, R&B",3.37,52,0.939,0.801
+Amerie,1 Thing,2008,"hip hop, pop, R&B",3.98,52,0.636,0.891
+Ludacris,Get Back,2004,"hip hop, pop",4.51,59,0.555,0.184
+Franz Ferdinand,Do You Want To,2005,rock,3.58,61,0.412,0.79
+Natalie Imbruglia,Shiver,2005,"pop, Folk/Acoustic",3.71,52,0.489,0.309
+Gwen Stefani,Hollaback Girl,2004,"pop, R&B",3.33,69,0.926,0.904
+Pretty Ricky,Your Body,2005,"hip hop, pop, R&B",4.0,59,0.838,0.507
+Thirty Seconds To Mars,The Kill,2005,rock,3.86,74,0.179,0.289
+Alicia Keys,Karma,2003,"pop, R&B",4.27,50,0.727,0.687
+2Pac,Ghetto Gospel,2004,hip hop,3.97,68,0.794,0.663
+Craig David,Don't Love You No More (I'm Sorry),2005,"hip hop, pop, R&B",4.07,56,0.636,0.572
+Katie Melua,Nine Million Bicycles,2005,"pop, easy listening, jazz",3.29,60,0.534,0.344
+Lil Jon & The East Side Boyz,Lovers And Friends,2004,"hip hop, pop",4.34,66,0.675,0.532
+Mariah Carey,Don't Forget About Us - Radio Edit,2005,"pop, R&B",3.9,0,0.7,0.386
+Ying Yang Twins,Wait (The Whisper Song),2005,"hip hop, pop",2.99,57,0.933,0.595
+Bow Wow,Like You (feat. Ciara),2005,"hip hop, pop, R&B",3.43,66,0.714,0.504
+Kaiser Chiefs,Everyday I Love You Less And Less,2005,rock,3.63,58,0.49,0.577
+Kelly Clarkson,Behind These Hazel Eyes,2004,"pop, R&B",3.32,59,0.548,0.425
+Black Eyed Peas,Don't Lie,2005,"hip hop, pop",3.65,61,0.662,0.604
+Westlife,You Raise Me Up,2005,pop,4.02,1,0.129,0.172
+Ray J,One Wish,2005,"hip hop, pop, R&B",5.63,62,0.525,0.602
+Papa Roach,Scars,2004,"rock, metal",3.47,60,0.455,0.484
+Arctic Monkeys,I Bet You Look Good On The Dancefloor,2006,rock,2.89,71,0.535,0.778
+Shayne Ward,That's My Goal,2006,pop,3.66,1,0.286,0.14
+Bow Wow,Let Me Hold You (feat. Omarion),2005,"hip hop, pop, R&B",4.14,62,0.815,0.611
+Kaiser Chiefs,I Predict A Riot,2005,rock,3.89,63,0.395,0.41
+Usher,Caught Up,2004,"hip hop, pop, R&B",3.74,61,0.817,0.805
+Kelly Clarkson,Because of You,2004,"pop, R&B",3.66,71,0.587,0.15
+3 Doors Down,Let Me Go,2012,"pop, rock, metal",4.05,52,0.478,0.491
+Nickelback,Photograph,2005,"rock, metal",4.32,67,0.515,0.385
+T-Pain,I'm Sprung,2005,"hip hop, pop, R&B",3.85,0,0.722,0.166
+Destiny's Child,Cater 2 U,2004,"pop, R&B",4.09,58,0.605,0.464
+The Pussycat Dolls,Stickwitu,2005,"pop, R&B",3.46,67,0.548,0.382
+Ryan Cabrera,True,2004,pop,3.4,62,0.598,0.369
+Stereophonics,Dakota,2005,"rock, pop",4.96,69,0.506,0.305
+Eminem,Like Toy Soldiers,2004,hip hop,4.95,67,0.52,0.398
+Nelly,Over And Over,2004,"hip hop, pop, R&B",4.23,61,0.644,0.464
+Coldplay,Speed of Sound,2005,"rock, pop",4.8,69,0.514,0.353
+KT Tunstall,Suddenly I See,2005,"World/Traditional, pop, Folk/Acoustic",3.36,71,0.587,0.664
+Destiny's Child,Girl,2004,"pop, R&B",3.74,55,0.567,0.556
+Kelly Clarkson,Since U Been Gone,2004,"pop, R&B",3.15,71,0.662,0.382
+U2,Sometimes You Can't Make It On Your Own,2004,"World/Traditional, rock",5.08,56,0.53,0.346
+The All-American Rejects,Dirty Little Secret,2005,"rock, pop",3.23,65,0.469,0.462
+Toby Keith,As Good As I Once Was,2005,country,3.8,67,0.68,0.646
+Gwen Stefani,Cool,2004,"pop, R&B",3.16,59,0.709,0.801
+Foo Fighters,Best of You,2005,"rock, metal",4.26,76,0.366,0.369
+Shakira,Hips Don't Lie (feat. Wyclef Jean),2005,"pop, latin",3.63,82,0.778,0.758
+Sean Paul,Temperature,2005,"hip hop, pop",3.64,78,0.951,0.822
+Justin Timberlake,SexyBack (feat. Timbaland),2006,pop,4.05,78,0.967,0.964
+Beyoncé,Irreplaceable,2007,"pop, R&B",3.8,70,0.447,0.509
+Amy Winehouse,Rehab,2006,R&B,3.58,71,0.407,0.777
+Rihanna,SOS,2006,"hip hop, pop, R&B",3.98,73,0.677,0.527
+Gnarls Barkley,Crazy,2006,"hip hop, R&B",2.96,74,0.855,0.64
+Busta Rhymes,Touch It,2006,"hip hop, pop",3.58,61,0.658,0.442
+Nelly Furtado,Maneater,2006,"hip hop, pop, latin",4.31,79,0.796,0.787
+Bob Sinclar,Rock This Party - Everybody Dance Now,2006,"pop, Dance/Electronic",4.09,69,0.893,0.902
+Diddy,Come to Me (feat. Nicole Scherzinger),2006,"hip hop, pop",4.61,55,0.819,0.386
+Madonna,Sorry,2005,pop,4.7,61,0.589,0.443
+Chamillionaire,Ridin',2005,"hip hop, pop",5.05,71,0.787,0.835
+Black Eyed Peas,Pump It,2005,"hip hop, pop",3.55,75,0.648,0.744
+Nelly Furtado,Promiscuous,2006,"hip hop, pop, latin",4.04,82,0.808,0.868
+Fedde Le Grand,Put Your Hands Up for Detroit - Radio Edit,2015,"pop, Dance/Electronic",2.51,39,0.814,0.518
+Sean Paul,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,2006,"hip hop, pop",4.06,58,0.711,0.718
+The Pussycat Dolls,Buttons,2005,"pop, R&B",3.76,68,0.565,0.477
+Ciara,Get Up (feat. Chamillionaire),2006,"pop, R&B",4.36,59,0.964,0.629
+Eminem,Shake That,2005,hip hop,4.57,74,0.963,0.534
+Cherish,Do It To It,2006,"hip hop, pop, R&B",3.77,65,0.826,0.794
+Muse,Supermassive Black Hole,2006,rock,3.54,75,0.668,0.782
+Chris Brown,Gimme That,2005,"hip hop, pop, R&B",3.11,63,0.678,0.444
+Infernal,From Paris to Berlin,2004,pop,3.49,57,0.741,0.839
+Cassie,Me & U,2006,"pop, R&B",3.2,73,0.803,0.739
+E-40,U and Dat (feat. T. Pain & Kandi Girl),2006,"hip hop, pop",3.38,63,0.858,0.329
+The Pussycat Dolls,Beep,2005,"pop, R&B",3.82,57,0.938,0.55
+Lil Jon,Snap Yo Fingers,2006,"hip hop, pop",4.57,67,0.835,0.626
+Armand Van Helden,My My My - Radio Edit,2006,"pop, Dance/Electronic",3.17,40,0.678,0.758
+The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",2005,hip hop,4.77,68,0.833,0.645
+Yung Joc,It's Goin' Down (feat. Nitti),2006,"hip hop, pop",4.03,66,0.888,0.609
+Shayne Ward,No Promises,2006,pop,3.72,1,0.5,0.182
+Justin Timberlake,My Love (feat. T.I.),2006,pop,4.6,72,0.771,0.808
+Nickelback,Savin' Me,2005,"rock, metal",3.66,65,0.441,0.522
+Nelly,Grillz,2005,"hip hop, pop, R&B",4.52,60,0.867,0.84
+Take That,Patience,2006,pop,3.37,64,0.309,0.372
+Fergie,London Bridge,2006,"pop, R&B",4.02,57,0.769,0.633
+Cascada,Everytime We Touch - Radio Edit,2011,"hip hop, pop, Dance/Electronic",3.32,0,0.64,0.493
+LL Cool J,Control Myself,2006,"hip hop, pop, R&B",3.9,42,0.825,0.48
+Beyoncé,Deja Vu (feat. Jay-Z),2007,"pop, R&B",4.0,57,0.644,0.355
+P!nk,Stupid Girls,2006,pop,3.29,0,0.683,0.566
+Eminem,When I'm Gone,2005,hip hop,4.69,68,0.618,0.75
+Kelis,Bossy,2006,"pop, R&B, Dance/Electronic",4.57,50,0.906,0.779
+Bob Sinclar,Love Generation - Radio Edit,2005,"pop, Dance/Electronic",3.46,49,0.715,0.554
+Meck,Thunder in My Heart Again (Radio Edit),2005,set(),3.16,46,0.679,0.806
+Mary J. Blige,Be Without You - Kendu Mix,2005,"pop, R&B",4.11,69,0.726,0.673
+Girls Aloud,Something Kinda Ooooh,2012,"pop, Dance/Electronic",3.36,49,0.681,0.879
+Rihanna,Unfaithful,2006,"hip hop, pop, R&B",3.78,70,0.588,0.349
+Kanye West,Touch The Sky,2005,hip hop,3.94,73,0.552,0.554
+Dem Franchize Boyz,"Lean Wit It, Rock Wit It",2006,"hip hop, pop",3.83,60,0.886,0.6
+Evanescence,Call Me When You're Sober,2006,metal,3.58,65,0.45,0.328
+Chingy,Pullin' Me Back,2006,"hip hop, pop, R&B",3.9,62,0.786,0.587
+Nickelback,Far Away,2005,"rock, metal",3.97,70,0.518,0.293
+Fall Out Boy,"Dance, Dance",2005,rock,3.0,74,0.622,0.449
+Leona Lewis,A Moment Like This,2007,"pop, R&B",4.29,57,0.261,0.167
+T.I.,What You Know,2006,"hip hop, pop",4.57,64,0.551,0.332
+Ludacris,Money Maker,2006,"hip hop, pop",3.84,62,0.551,0.612
+Nick Lachey,What's Left Of Me,2006,pop,4.08,37,0.42,0.294
+Jibbs,Chain Hang Low,2006,"hip hop, pop",3.46,56,0.792,0.778
+Arctic Monkeys,When The Sun Goes Down,2006,rock,3.37,72,0.348,0.407
+Rascal Flatts,Life is a Highway,2006,country,4.61,0,0.561,0.594
+Beyoncé,Check On It (feat. Slim Thug),2006,"pop, R&B",3.52,45,0.7,0.883
+Keyshia Cole,Love,2005,"hip hop, pop, R&B",4.26,72,0.688,0.318
+Lily Allen,Smile,2006,pop,3.28,68,0.632,0.733
+Ne-Yo,Sexy Love,2006,"pop, R&B",3.68,67,0.693,0.494
+JoJo,Too Little Too Late,2006,"hip hop, pop, R&B",3.73,48,0.535,0.685
+Mary J. Blige,One,2005,"pop, R&B",4.34,64,0.344,0.269
+Bubba Sparxxx,Ms. New Booty,2005,"hip hop, pop, country",4.21,62,0.64,0.609
+Amy Winehouse,You Know I'm No Good,2006,R&B,4.28,63,0.705,0.734
+Rascal Flatts,What Hurts The Most,2006,country,3.57,69,0.537,0.33
+Red Hot Chili Peppers,Dani California,2006,rock,4.7,76,0.556,0.73
+Scissor Sisters,I Don't Feel Like Dancin',2006,"pop, rock, Dance/Electronic",4.81,63,0.707,0.845
+Ne-Yo,So Sick,2006,"pop, R&B",3.45,75,0.452,0.58
+Hinder,Lips Of An Angel,2019,"pop, rock, metal",4.35,35,0.474,0.238
+The Raconteurs,"Steady, As She Goes",2006,rock,3.59,56,0.525,0.537
+The Fratellis,Chelsea Dagger,2006,rock,3.59,68,0.511,0.586
+Fort Minor,Where'd You Go (feat. Holly Brook & Jonah Matranga),2005,"hip hop, pop, rock",3.86,42,0.684,0.25
+Panic! At The Disco,I Write Sins Not Tragedies,2005,rock,3.09,70,0.566,0.672
+James Blunt,Goodbye My Lover,2005,pop,4.31,67,0.432,0.273
+Christina Aguilera,Ain't No Other Man,2006,pop,3.82,63,0.862,0.511
+Westlife,The Rose,2006,pop,3.65,0,0.272,0.172
+Keane,Is It Any Wonder?,2006,pop,3.1,59,0.489,0.816
+Orson,No Tomorrow,2006,pop,2.79,46,0.656,0.735
+T-Pain,I'm N Luv (Wit a Stripper) (feat. Mike Jones),2005,"hip hop, pop, R&B",4.42,0,0.731,0.512
+KT Tunstall,Black Horse And The Cherry Tree,2005,"World/Traditional, pop, Folk/Acoustic",2.87,64,0.748,0.917
+Natasha Bedingfield,Unwritten,2004,pop,4.32,2,0.706,0.629
+Razorlight,America,2006,"rock, pop",4.16,67,0.447,0.149
+James Morrison,You Give Me Something,2006,"pop, R&B",3.55,64,0.559,0.578
+Snow Patrol,You're All I Have,2006,"World/Traditional, rock, pop",4.56,35,0.467,0.501
+The Fray,How to Save a Life,2005,pop,4.38,79,0.64,0.361
+Sandi Thom,I Wish I Was a Punk Rocker (with Flowers in My Hair),2006,"World/Traditional, pop",2.53,61,0.7,0.719
+My Chemical Romance,Welcome to the Black Parade,2006,rock,5.19,76,0.217,0.236
+Razorlight,In The Morning,2006,"rock, pop",3.71,59,0.616,0.686
+James Morrison,Wonderful World,2006,"pop, R&B",3.5,49,0.474,0.591
+Chris Brown,Yo (Excuse Me Miss),2005,"hip hop, pop, R&B",3.82,69,0.536,0.57
+P!nk,Who Knew,2006,pop,3.47,0,0.688,0.46
+The Kooks,Naive,2006,rock,3.39,73,0.391,0.737
+Leona Lewis,Bleeding Love,2007,"pop, R&B",4.37,75,0.638,0.225
+Rihanna,Umbrella,2008,"hip hop, pop, R&B",4.6,81,0.583,0.575
+Britney Spears,Gimme More,2007,pop,4.19,79,0.788,0.382
+Fergie,Big Girls Don't Cry (Personal),2006,"pop, R&B",4.47,76,0.708,0.253
+Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,2007,pop,3.66,0,0.698,0.896
+Plain White T's,Hey There Delilah,2005,pop,3.88,78,0.656,0.298
+Justin Timberlake,What Goes Around.../...Comes Around (Interlude),2006,pop,7.48,70,0.687,0.432
+Gwen Stefani,The Sweet Escape,2006,"pop, R&B",4.11,71,0.756,0.73
+Timbaland,The Way I Are,2007,"hip hop, pop, R&B",2.99,80,0.731,0.765
+Nelly Furtado,Say It Right,2006,"hip hop, pop, latin",3.72,81,0.872,0.809
+Ida Corr,Let Me Think About It,2012,set(),2.53,43,0.762,0.715
+Alex Gaudino,Destination Calabria - Radio Edit,2007,Dance/Electronic,3.72,73,0.627,0.312
+September,Cry for You,2007,"pop, Dance/Electronic",3.5,65,0.767,0.961
+Akon,Smack That,2006,pop,3.54,58,0.94,0.932
+Timbaland,Give It To Me,2007,"hip hop, pop, R&B",3.9,70,0.975,0.815
+50 Cent,Ayo Technology,2007,"hip hop, pop",4.13,67,0.63,0.418
+Eric Prydz,Proper Education - Radio Edit,2007,"pop, Dance/Electronic",3.31,0,0.537,0.324
+Fedde Le Grand,Put Your Hands Up For Detroit - Radio Edit,2015,"pop, Dance/Electronic",2.51,0,0.827,0.491
+Ciara,Like a Boy,2006,"pop, R&B",3.95,68,0.701,0.425
+Kanye West,Stronger,2007,hip hop,5.2,54,0.617,0.49
+Beyoncé,Beautiful Liar,2007,"pop, R&B",3.33,64,0.764,0.418
+Gym Class Heroes,Cupid's Chokehold / Breakfast in America - Radio Mix,2007,"hip hop, pop",3.95,59,0.584,0.821
+Akon,I Wanna Love You,2006,pop,4.12,53,0.865,0.352
+Soulja Boy,Crank That (Soulja Boy),2007,"hip hop, pop",3.7,74,0.736,0.803
+Fat Joe,Make It Rain,2006,"hip hop, pop",4.12,59,0.744,0.767
+P!nk,U + Ur Hand,2006,pop,3.57,0,0.709,0.886
+Rihanna,Shut Up And Drive,2008,"hip hop, pop, R&B",3.54,69,0.735,0.74
+Lloyd,Get It Shawty,2007,"hip hop, pop, R&B",3.49,62,0.822,0.674
+Kanye West,Can't Tell Me Nothing,2007,hip hop,4.53,47,0.596,0.102
+Camille Jones,The Creeps - Fedde Le Grand Radio Mix,2006,set(),2.54,17,0.847,0.724
+Linkin Park,What I've Done,2007,"rock, metal",3.43,77,0.623,0.287
+Keyshia Cole,Last Night,2007,"hip hop, pop, R&B",4.26,60,0.918,0.972
+Chris Brown,Kiss Kiss (feat. T-Pain),2007,"hip hop, pop, R&B",4.18,68,0.729,0.551
+Shop Boyz,Party Like A Rock Star,2007,"hip hop, pop",4.22,61,0.619,0.68
+Finger Eleven,Paralyzer,2007,"rock, metal",3.47,73,0.644,0.861
+Justin Timberlake,Summer Love,2006,pop,4.22,66,0.606,0.477
+MiMS,This Is Why I'm Hot,2007,"hip hop, pop",4.23,59,0.621,0.485
+Fabolous,Make Me Better,2007,"hip hop, pop, R&B",4.23,62,0.607,0.562
+Seether,Fake It,2007,"rock, metal",3.23,73,0.611,0.607
+Arctic Monkeys,Brianstorm,2007,rock,2.88,67,0.42,0.463
+Fergie,Glamorous,2006,"pop, R&B",4.11,64,0.811,0.565
+Linkin Park,Bleed It Out,2007,"rock, metal",2.77,73,0.529,0.596
+My Chemical Romance,Teenagers,2006,rock,2.7,80,0.463,0.856
+Calvin Harris,Acceptable in the 80's,2007,"hip hop, pop, Dance/Electronic",5.56,57,0.787,0.942
+Sugababes,About You Now,2007,"pop, R&B",3.54,66,0.584,0.585
+Avril Lavigne,Girlfriend,2007,pop,3.61,75,0.56,0.669
+Ne-Yo,Because Of You,2007,"pop, R&B",4.45,74,0.81,0.828
+Daughtry,It's Not Over,2016,"pop, rock, metal",3.59,45,0.45,0.413
+Unk,Walk It Out,2013,"hip hop, pop",2.88,48,0.794,0.706
+Lloyd,You,2007,"hip hop, pop, R&B",4.55,70,0.412,0.703
+Klaxons,Golden Skans,2007,rock,2.75,65,0.463,0.713
+T-Pain,Bartender (feat. Akon),2007,"hip hop, pop, R&B",3.98,3,0.675,0.405
+Baby Boy Da Prince,The Way I Live - Main Explicit,2006,"hip hop, pop",5.42,59,0.88,0.714
+Fergie,Fergalicious,2006,"pop, R&B",4.87,63,0.906,0.831
+Omarion,Ice Box,2006,"hip hop, pop, R&B",4.27,57,0.775,0.821
+Pretty Ricky,On the Hotline - Amended Version,2007,"hip hop, pop, R&B",4.04,57,0.704,0.688
+Nickelback,Rockstar,2005,"rock, metal",4.2,69,0.616,0.693
+Fall Out Boy,Thnks fr th Mmrs,2007,rock,3.39,76,0.459,0.588
+Justin Timberlake,LoveStoned / I Think She Knows (Interlude),2006,pop,7.41,57,0.859,0.852
+All Time Low,"Dear Maria, Count Me In",2007,rock,3.05,76,0.459,0.572
+Amy Winehouse,Back To Black,2006,R&B,4.02,76,0.403,0.378
+Keyshia Cole,Let It Go,2007,"hip hop, pop, R&B",3.97,58,0.808,0.773
+Ciara,Promise,2006,"pop, R&B",4.46,56,0.697,0.439
+Enrique Iglesias,Do You Know? (The Ping Pong Song),2007,"pop, latin",3.66,45,0.753,0.706
+T2,Heartbroken - Edit,2017,Dance/Electronic,2.98,59,0.716,0.877
+Robyn,With Every Heartbeat,2005,"pop, Dance/Electronic",4.25,36,0.477,0.413
+Maroon 5,Makes Me Wonder,2007,pop,3.52,62,0.803,0.881
+Fall Out Boy,"This Ain't A Scene, It's An Arms Race",2007,rock,3.53,68,0.435,0.408
+Paramore,Misery Business,2007,"pop, rock",3.53,72,0.517,0.731
+Hinder,Better Than Me,2019,"pop, rock, metal",3.73,30,0.451,0.254
+Huey,"Pop, Lock & Drop It - Video Edit",2006,"hip hop, pop",4.35,52,0.723,0.645
+Foo Fighters,The Pretender,2007,"rock, metal",4.49,78,0.433,0.365
+Plies,Shawty (feat. T Pain),2007,"hip hop, pop, R&B",4.26,61,0.444,0.26
+Kaiser Chiefs,Ruby,2007,rock,3.4,67,0.451,0.448
+Mark Ronson,Stop Me (feat. Daniel Merriweather),2007,pop,3.88,46,0.626,0.346
+Bow Wow,Outta My System (feat. T-Pain & Johntá Austin),2006,"hip hop, pop, R&B",3.97,57,0.772,0.743
+Jim Jones,We Fly High,2006,"hip hop, pop",3.93,0,0.685,0.483
+The Red Jumpsuit Apparatus,Face Down,2006,pop,3.2,74,0.545,0.464
+MIKA,Grace Kelly,2006,pop,3.13,69,0.675,0.669
+Christina Aguilera,Candyman,2006,pop,3.24,66,0.686,0.72
+Sean Kingston,Beautiful Girls,2007,"hip hop, pop, R&B",3.76,78,0.762,0.769
+Akon,Don't Matter,2006,pop,4.88,52,0.801,0.34
+James Blunt,1973,2007,pop,4.67,68,0.72,0.768
+Carrie Underwood,Before He Cheats,2005,"pop, country",3.33,76,0.519,0.29
+Just Jack,Starz In Their Eyes,2006,Dance/Electronic,4.93,52,0.67,0.656
+T-Pain,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),2007,"hip hop, pop, R&B",3.8,2,0.451,0.594
+Bone Thugs-N-Harmony,I Tried,2007,"hip hop, pop",4.79,61,0.727,0.378
+Avril Lavigne,When You're Gone,2007,pop,4.01,68,0.457,0.168
+Rich Boy,Throw Some D's,2007,"hip hop, pop",4.4,57,0.697,0.433
+MIKA,Love Today,2006,pop,3.92,57,0.673,0.587
+Manic Street Preachers,Your Love Alone Is Not Enough (feat. Nina Persson),2007,"rock, pop",3.93,53,0.344,0.396
+Elliott Yamin,Wait for You,2007,set(),4.36,58,0.764,0.352
+Wyclef Jean,"Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",2007,set(),4.02,56,0.733,0.529
+Boys Like Girls,The Great Escape,2007,pop,3.44,62,0.423,0.505
+Take That,Rule The World - Radio Edit,2007,pop,3.96,58,0.357,0.348
+J. Holiday,Bed,2007,"hip hop, pop, R&B, Dance/Electronic",4.59,64,0.684,0.723
+Red Hot Chili Peppers,Snow (Hey Oh),2006,rock,5.58,79,0.427,0.599
+Ludacris,Runaway Love,2006,"hip hop, pop",4.68,51,0.405,0.815
+Flo Rida,Low (feat. T-Pain),2008,"hip hop, pop",3.86,80,0.918,0.304
+Katy Perry,I Kissed A Girl,2008,pop,2.99,73,0.699,0.696
+Rihanna,Take A Bow,2008,"hip hop, pop, R&B",3.82,74,0.697,0.572
+Alicia Keys,No One,2007,"pop, R&B",4.23,77,0.644,0.167
+Timbaland,Apologize,2007,"hip hop, pop, R&B",3.07,74,0.653,0.101
+Ne-Yo,Miss Independent,2008,"pop, R&B",3.87,71,0.668,0.727
+Chris Brown,With You,2007,"hip hop, pop, R&B",4.2,70,0.662,0.655
+Beyoncé,If I Were a Boy,2008,"pop, R&B",4.15,66,0.632,0.427
+Kardinal Offishall,Dangerous,2008,"hip hop, pop, R&B",4.1,75,0.949,0.807
+Madcon,Beggin (original version),2007,"hip hop, pop",3.6,70,0.715,0.445
+Rihanna,Disturbia,2008,"hip hop, pop, R&B",3.98,76,0.707,0.722
+Guru Josh Project,Infinity 2008,2011,hip hop,3.17,1,0.493,0.483
+Britney Spears,Break the Ice,2007,pop,3.27,61,0.712,0.85
+Lil Wayne,Lollipop,2008,"hip hop, pop",4.99,69,0.829,0.45
+Basshunter,Now You're Gone - Video Edit,2008,pop,2.47,63,0.639,0.354
+Kanye West,Flashing Lights,2007,hip hop,3.96,52,0.639,0.43
+Madonna,4 Minutes (feat. Justin Timberlake & Timbaland),2009,pop,3.16,71,0.753,0.767
+Katy Perry,Hot N Cold,2008,pop,3.67,73,0.706,0.861
+Rihanna,Don't Stop The Music,2008,"hip hop, pop, R&B",4.45,77,0.835,0.542
+Snoop Dogg,Sensual Seduction,2007,"hip hop, pop",4.09,56,0.756,0.504
+Akon,Right Now (Na Na Na),2008,pop,4.01,69,0.83,0.607
+Britney Spears,Womanizer,2008,pop,3.74,76,0.724,0.235
+Eric Prydz,Pjanoo - Radio Edit,2008,"pop, Dance/Electronic",2.62,65,0.605,0.836
+Kelly Rowland,Work,2010,"hip hop, pop, R&B",3.47,34,0.888,0.623
+Jeezy,Put On,2008,"hip hop, pop",5.35,69,0.654,0.272
+Madonna,Give It 2 Me,2008,pop,4.8,57,0.837,0.972
+The Pussycat Dolls,When I Grow Up,2008,"pop, R&B",4.09,72,0.671,0.368
+will.i.am,Heartbreaker,2007,"hip hop, pop",5.46,46,0.788,0.449
+Britney Spears,Piece of Me,2007,pop,3.54,64,0.769,0.782
+T.I.,Live Your Life,2008,"hip hop, pop",5.65,75,0.375,0.478
+Ne-Yo,Closer,2008,"pop, R&B",3.91,65,0.709,0.576
+Lil Wayne,A Milli,2008,"hip hop, pop",3.7,69,0.674,0.773
+Colby O'Donis,What You Got,2008,"hip hop, pop, R&B",4.05,61,0.775,0.305
+Miley Cyrus,See You Again,2007,pop,3.17,0,0.692,0.801
+Basshunter,All I Ever Wanted - Radio Edit,2008,pop,2.94,65,0.645,0.553
+Alesha Dixon,The Boy Does Nothing,2008,pop,3.51,51,0.632,0.845
+Dizzee Rascal,Dance Wiv Me - Radio Edit,2011,"hip hop, pop, Dance/Electronic",3.4,68,0.878,0.792
+Gabriella Cilmi,Sweet About Me,2008,R&B,3.37,56,0.671,0.585
+Jack White,Another Way to Die,2007,"rock, blues",4.37,56,0.486,0.386
+Plies,Hypnotized (feat. Akon),2007,"hip hop, pop, R&B",3.14,66,0.84,0.617
+The Pussycat Dolls,I Hate This Part,2008,"pop, R&B",3.64,64,0.756,0.452
+Sean Kingston,Take You There,2008,"hip hop, pop, R&B",3.94,65,0.752,0.634
+Natasha Bedingfield,Pocketful of Sunshine,2008,pop,3.39,62,0.726,0.682
+The Offspring,"You're Gonna Go Far, Kid",2008,"rock, pop, metal",2.96,78,0.55,0.601
+Kanye West,Homecoming,2007,hip hop,3.39,47,0.667,0.918
+Estelle,American Boy,2008,R&B,4.75,78,0.727,0.512
+Saving Abel,Addicted,2008,"rock, metal",3.71,69,0.512,0.527
+Pendulum,Propane Nightmares,2008,Dance/Electronic,5.22,57,0.356,0.215
+The Game,My Life,2008,"hip hop, pop",5.35,60,0.673,0.382
+Danity Kane,Damaged,2008,"pop, R&B",4.07,57,0.774,0.818
+P!nk,So What,2008,pop,3.59,76,0.534,0.462
+Kanye West,Love Lockdown,2008,hip hop,4.51,66,0.76,0.112
+Gym Class Heroes,Cookie Jar (feat. The-Dream),2008,"hip hop, pop",3.61,54,0.687,0.418
+M.I.A.,Paper Planes,2007,"pop, rock",3.42,1,0.447,0.485
+3 Doors Down,It's Not My Time,2008,"pop, rock, metal",4.03,56,0.529,0.282
+Kylie Minogue,Wow,2007,"pop, Dance/Electronic",3.18,47,0.654,0.851
+Mariah Carey,Touch My Body,2008,"pop, R&B",3.41,0,0.715,0.84
+MGMT,Kids,2007,rock,5.05,77,0.451,0.172
+The Ting Tings,Shut Up and Let Me Go,2007,"pop, rock, Dance/Electronic",2.85,55,0.852,0.887
+Lil Wayne,Got Money,2008,"hip hop, pop",4.08,58,0.694,0.702
+Santana,Into the Night (feat. Chad Kroeger),2007,"rock, blues, latin",3.71,57,0.595,0.603
+The-Dream,I Luv Your Girl,2007,"hip hop, pop, R&B",4.46,62,0.723,0.0406
+Wiley,Wearing My Rolex - Radio Edit,2008,"hip hop, Dance/Electronic",2.84,59,0.876,0.755
+Usher,Love in This Club (feat. Young Jeezy),2008,"hip hop, pop, R&B",4.33,71,0.573,0.346
+Sam Sparro,Black & Gold - Radio Edit,2008,"pop, Dance/Electronic",3.54,53,0.383,0.42
+"H ""two"" O",What's It Gonna Be (feat. Platnum),2008,Dance/Electronic,3.46,55,0.733,0.937
+The Ting Tings,That's Not My Name,2008,"pop, rock, Dance/Electronic",5.18,51,0.755,0.959
+Plies,"Bust It Baby, Pt. 2 (feat. Ne-Yo)",2008,"hip hop, pop, R&B",4.01,61,0.648,0.807
+James Morrison,Broken Strings,2008,"pop, R&B",4.17,70,0.57,0.321
+Leona Lewis,Run,2007,"pop, R&B",5.25,62,0.285,0.0923
+Metro Station,Shake It,2007,"pop, rock",3.0,67,0.618,0.79
+T.I.,Whatever You Like,2008,"hip hop, pop",4.16,74,0.68,0.467
+Trey Songz,Can't Help but Wait,2007,"hip hop, pop, R&B",3.44,62,0.699,0.611
+OneRepublic,Stop And Stare,2007,pop,3.73,59,0.492,0.251
+Alexandra Burke,Hallelujah,2009,pop,3.63,63,0.177,0.0942
+Mary J. Blige,Just Fine,2007,"pop, R&B",4.04,64,0.923,0.588
+Jordin Sparks,One Step At a Time,2007,"pop, R&B",3.42,56,0.766,0.691
+Coldplay,Viva La Vida,2008,"rock, pop",4.04,80,0.486,0.417
+Kings of Leon,Sex on Fire,2008,rock,3.39,80,0.542,0.374
+Kanye West,Good Life,2007,hip hop,3.45,45,0.439,0.487
+Duffy,Mercy,2008,"pop, R&B",3.67,69,0.793,0.964
+David Archuleta,Crush,2008,pop,3.56,67,0.57,0.487
+J. Holiday,Suffocate - Superclean,2007,"hip hop, pop, R&B, Dance/Electronic",3.67,58,0.458,0.447
+Gavin DeGraw,In Love With a Girl,2008,"pop, Folk/Acoustic",3.43,51,0.438,0.684
+Jordin Sparks,Tattoo,2007,"pop, R&B",3.89,54,0.566,0.547
+Coldplay,Violet Hill,2008,"rock, pop",3.71,63,0.33,0.11
+Ray J,Sexy Can I feat. Yung Berg,2008,"hip hop, pop, R&B",3.4,1,0.575,0.926
+Jennifer Hudson,Spotlight,2008,"pop, R&B, easy listening",4.17,60,0.707,0.659
+John Legend,Green Light (feat. André 3000),2008,"pop, R&B",4.74,55,0.622,0.762
+Jonas Brothers,Burnin' Up,2008,pop,2.92,68,0.667,0.807
+Lupe Fiasco,Superstar (feat. Matthew Santos),2007,"hip hop, pop",4.82,64,0.572,0.472
+Chris Brown,Forever,2008,"hip hop, pop, R&B",4.64,74,0.672,0.438
+Adele,Chasing Pavements,2008,"pop, R&B",3.51,1,0.614,0.329
+Leona Lewis,Better in Time,2007,"pop, R&B",3.9,67,0.584,0.549
+Fergie,Clumsy,2006,"pop, R&B",4.01,58,0.731,0.452
+T-Pain,Can't Believe It (feat. Lil' Wayne),2008,"hip hop, pop, R&B",4.56,0,0.648,0.0756
+Black Eyed Peas,I Gotta Feeling,2009,"hip hop, pop",4.82,80,0.743,0.61
+Lady Gaga,Poker Face,2008,pop,3.95,77,0.851,0.787
+Beyoncé,Halo,2008,"pop, R&B",4.36,74,0.508,0.472
+David Guetta,Sexy Bitch (feat. Akon),2010,"hip hop, pop, Dance/Electronic",3.26,75,0.813,0.801
+Flo Rida,Right Round,2009,"hip hop, pop",3.41,74,0.72,0.705
+Taylor Swift,Love Story,2008,pop,3.94,74,0.617,0.306
+Pitbull,Hotel Room Service,2009,"hip hop, pop, latin",3.98,63,0.849,0.761
+Britney Spears,Circus,2008,pop,3.21,74,0.791,0.761
+Lady Gaga,LoveGame,2008,pop,3.61,69,0.894,0.844
+Skillet,Monster,2009,"rock, pop, metal",2.97,75,0.64,0.692
+The Prodigy,Omen,2009,"rock, pop, Dance/Electronic",3.6,57,0.545,0.558
+Black Eyed Peas,Meet Me Halfway,2009,"hip hop, pop",4.74,72,0.798,0.4
+Kanye West,Heartless,2008,hip hop,3.52,82,0.79,0.654
+Kid Cudi,Day 'N' Nite (Nightmare),2009,hip hop,3.69,72,0.88,0.803
+Lady Gaga,Just Dance,2008,pop,4.03,76,0.822,0.745
+Britney Spears,If U Seek Amy,2008,pop,3.61,69,0.717,0.544
+Pitbull,I Know You Want Me (Calle Ocho),2009,"hip hop, pop, latin",3.95,59,0.825,0.8
+Mariah Carey,Obsessed,2009,"pop, R&B",4.04,66,0.742,0.369
+Beyoncé,Sweet Dreams,2008,"pop, R&B",3.47,48,0.694,0.788
+Agnes,Release Me,2009,"pop, Dance/Electronic",4.27,65,0.621,0.716
+Black Eyed Peas,Boom Boom Pow,2009,"hip hop, pop",4.19,68,0.867,0.402
+Shakira,She Wolf,2009,"pop, latin",3.15,68,0.865,0.867
+Lady Gaga,Paparazzi,2008,pop,3.47,70,0.762,0.397
+JAY-Z,Empire State Of Mind,2009,hip hop,4.62,82,0.491,0.811
+OneRepublic,All The Right Moves,2009,pop,3.97,65,0.529,0.65
+Jeremih,Birthday Sex,2009,"hip hop, pop, R&B",3.78,67,0.677,0.446
+Cascada,Evacuate The Dancefloor,2009,"hip hop, pop, Dance/Electronic",3.45,63,0.762,0.898
+Linkin Park,New Divide,2009,"rock, metal",4.48,68,0.493,0.38
+Kevin Rudolf,Let It Rock,2008,"hip hop, pop",3.85,66,0.607,0.434
+JAY-Z,Run This Town,2009,hip hop,4.46,75,0.632,0.441
+Lady Gaga,Bad Romance,2009,pop,4.91,80,0.696,0.714
+Eminem,We Made You,2009,hip hop,4.49,63,0.924,0.67
+Dizzee Rascal,Bonkers,2011,"hip hop, pop, Dance/Electronic",2.96,38,0.624,0.74
+Ciara,Love Sex Magic (feat. Justin Timberlake),2009,"pop, R&B",3.67,58,0.893,0.874
+Rihanna,Russian Roulette,2009,"hip hop, pop, R&B",3.79,64,0.48,0.265
+Soulja Boy,Turn My Swag On,2008,"hip hop, pop",3.44,59,0.546,0.489
+The xx,Intro,2009,rock,2.13,2,0.617,0.152
+Jay Sean,Down,2009,"hip hop, pop, R&B",3.54,3,0.657,0.683
+Keri Hilson,Turnin Me On - Original Dirty,2008,"pop, R&B",4.13,41,0.661,0.0949
+David Guetta,When Love Takes Over (feat. Kelly Rowland),2010,"hip hop, pop, Dance/Electronic",3.18,69,0.675,0.498
+Cheryl,Fight For This Love,2009,"pop, Dance/Electronic",3.72,65,0.739,0.727
+Soulja Boy,Kiss Me Thru The Phone,2008,"hip hop, pop",3.22,76,0.758,0.795
+Eminem,Crack A Bottle,2009,hip hop,4.96,70,0.516,0.391
+P!nk,Sober,2010,pop,4.19,46,0.614,0.407
+Tinchy Stryder,Number 1,2009,"pop, Dance/Electronic",3.55,59,0.581,0.747
+Pixie Lott,"Mama Do (Uh Oh, Uh Oh)",2009,"pop, Dance/Electronic",3.28,54,0.451,0.589
+JLS,Beat Again - Radio Edit,2009,pop,3.28,0,0.894,0.968
+3OH!3,DONTTRUSTME,2008,"hip hop, pop, rock",3.21,70,0.791,0.514
+A.R. Rahman,Jai Ho! (You Are My Destiny),2009,set(),3.71,65,0.657,0.879
+Akon,Beautiful,2008,pop,5.22,65,0.74,0.629
+Alexandra Burke,Bad Boys (feat. Flo Rida),2009,pop,3.44,57,0.67,0.636
+Mario,Break Up,2009,"pop, R&B",4.15,51,0.44,0.475
+Drake,Forever,2009,"hip hop, pop, R&B",5.96,73,0.457,0.54
+Selena Gomez & The Scene,Naturally,2009,"pop, Dance/Electronic",3.38,63,0.605,0.875
+The Veronicas,Untouched,2005,"pop, Dance/Electronic",4.26,58,0.557,0.442
+Fabolous,Throw It In The Bag,2009,"hip hop, pop, R&B",3.86,59,0.789,0.696
+Jason Derulo,Whatcha Say,2010,"hip hop, pop",3.69,70,0.615,0.711
+Lily Allen,Not Fair,2009,pop,3.35,54,0.719,0.948
+T.I.,Dead And Gone,2008,"hip hop, pop",5.0,68,0.713,0.47
+Sean Kingston,Fire Burning,2009,"hip hop, pop, R&B",4.0,71,0.839,0.888
+Empire of the Sun,Walking On A Dream,2008,"rock, pop, Dance/Electronic",3.31,77,0.871,0.716
+Cobra Starship,Good Girls Go Bad (feat. Leighton Meester),2009,"pop, Dance/Electronic",3.27,65,0.594,0.628
+Nickelback,If Today Was Your Last Day,2008,"rock, metal",4.15,66,0.485,0.568
+La Roux,Bulletproof,2009,"pop, Dance/Electronic",3.43,71,0.674,0.682
+Kasabian,Fire,2009,rock,4.2,64,0.525,0.179
+Calvin Harris,I'm Not Alone - Radio Edit,2009,"hip hop, pop, Dance/Electronic",3.52,55,0.597,0.435
+Justin Bieber,One Time,2009,pop,3.6,71,0.691,0.762
+Jamie Foxx,Blame It,2008,"hip hop, pop, R&B",4.83,65,0.673,0.362
+La Roux,In For The Kill,2009,"pop, Dance/Electronic",4.14,59,0.629,0.905
+Muse,Uprising,2009,rock,5.08,75,0.602,0.411
+Nickelback,Gotta Be Somebody,2008,"rock, metal",4.21,62,0.536,0.205
+Dizzee Rascal,Holiday,2011,"hip hop, pop, Dance/Electronic",3.68,60,0.545,0.855
+Beyoncé,Single Ladies (Put a Ring on It),2008,"pop, R&B",3.22,67,0.426,0.272
+Boys Like Girls,Love Drunk,2009,pop,3.78,64,0.44,0.412
+The-Dream,Rockin' That Shit,2009,"hip hop, pop, R&B",3.7,62,0.672,0.627
+OneRepublic,Secrets,2009,pop,3.74,74,0.516,0.376
+JLS,Everybody in Love,2013,pop,3.26,39,0.705,0.656
+Jason Aldean,Big Green Tractor,2009,country,3.4,50,0.616,0.58
+The Fray,Never Say Never,2009,pop,4.28,67,0.23,0.262
+Lily Allen,The Fear,2009,pop,3.45,53,0.661,0.522
+Drake,Best I Ever Had,2010,"hip hop, pop, R&B",4.31,54,0.431,0.605
+Kelly Clarkson,Already Gone,2009,"pop, R&B",4.69,56,0.209,0.294
+Miley Cyrus,Party In The U.S.A.,2009,pop,3.37,79,0.652,0.47
+Jordin Sparks,Battlefield,2009,"pop, R&B",4.03,57,0.613,0.37
+Ne-Yo,Mad,2008,"pop, R&B",4.24,64,0.731,0.691
+Green Day,21 Guns,2009,rock,5.35,73,0.268,0.416
+Keri Hilson,Knock You Down,2009,"pop, R&B",5.44,57,0.588,0.645
+Taylor Swift,You Belong With Me,2008,pop,3.85,55,0.687,0.445
+Shinedown,Second Chance,2008,"rock, metal",3.7,67,0.46,0.182
+Asher Roth,I Love College,2009,"hip hop, pop",4.03,62,0.713,0.664
+Katy Perry,Waking Up In Vegas,2008,pop,3.32,49,0.524,0.59
+Kelly Clarkson,My Life Would Suck Without You,2009,"pop, R&B",3.52,68,0.526,0.424
+Mumford & Sons,Little Lion Man,2009,"Folk/Acoustic, rock, pop",4.09,68,0.517,0.455
+The Fray,You Found Me,2009,pop,4.03,73,0.338,0.4
+Bruno Mars,Just the Way You Are,2010,pop,3.68,77,0.635,0.424
+Eminem,Love The Way You Lie,2010,hip hop,4.39,81,0.749,0.641
+Stromae,Alors on danse - Radio Edit,2010,pop,3.43,77,0.791,0.714
+Kesha,TiK ToK,2010,"pop, Dance/Electronic",3.33,80,0.755,0.714
+David Guetta,Memories (feat. Kid Cudi),2010,"hip hop, pop, Dance/Electronic",3.51,76,0.546,0.375
+Taio Cruz,Dynamite,2010,"hip hop, pop",3.38,80,0.751,0.816
+Rihanna,Only Girl (In The World),2010,"hip hop, pop, R&B",3.92,73,0.789,0.611
+Katy Perry,California Gurls,2012,pop,3.91,72,0.791,0.425
+Kesha,Take It Off,2010,"pop, Dance/Electronic",3.59,68,0.729,0.74
+INNA,Hot - Play & Win Radio Version,2010,pop,3.62,42,0.817,0.599
+Far East Movement,Like A G6,2010,"hip hop, pop",3.61,73,0.435,0.778
+David Guetta,Gettin' Over You (feat. Fergie & LMFAO),2010,"hip hop, pop, Dance/Electronic",3.13,62,0.615,0.45
+Duck Sauce,Barbra Streisand - Radio Edit,2010,Dance/Electronic,3.28,46,0.769,0.506
+Lucenzo,Danza Kuduro (feat. Don Omar),2011,latin,3.57,0,0.622,0.773
+Rihanna,Te Amo,2009,"hip hop, pop, R&B",3.47,67,0.567,0.751
+Timbaland,Carry Out (Featuring Justin Timberlake),2009,"hip hop, pop, R&B",3.87,69,0.531,0.272
+DJ Fresh,Gold Dust - Radio Edit,2010,"pop, Dance/Electronic",3.21,63,0.451,0.295
+Edward Maya,Stereo Love - Radio Edit,2010,pop,3.08,66,0.799,0.586
+Taio Cruz,Break Your Heart,2010,"hip hop, pop",3.36,74,0.607,0.568
+Black Eyed Peas,Imma Be,2009,"hip hop, pop",4.29,61,0.597,0.412
+Sidney Samson,Riverside,2009,Dance/Electronic,5.34,47,0.804,0.237
+Eminem,Not Afraid,2010,hip hop,4.14,79,0.855,0.668
+Lady Gaga,Alejandro,2009,pop,4.57,67,0.623,0.36
+Rihanna,Rude Boy,2009,"hip hop, pop, R&B",3.72,74,0.563,0.812
+Ne-Yo,Beautiful Monster,2010,"pop, R&B",4.19,57,0.708,0.494
+3OH!3,Starstrukk,2010,"hip hop, pop, rock",3.38,32,0.605,0.263
+Black Eyed Peas,The Time (Dirty Bit),2010,"hip hop, pop",5.13,69,0.816,0.436
+Kelly Rowland,Commander,2011,"hip hop, pop, R&B",3.64,59,0.395,0.567
+Swedish House Mafia,One (Your Name) - Radio Edit,2010,"pop, Dance/Electronic",2.72,63,0.733,0.636
+Chris Brown,Deuces (feat. Tyga & Kevin McCall),2011,"hip hop, pop, R&B",4.61,68,0.692,0.217
+Usher,DJ Got Us Fallin' In Love (feat. Pitbull),2010,"hip hop, pop, R&B",3.68,79,0.663,0.654
+Iyaz,Replay,2009,"hip hop, pop",3.04,75,0.706,0.195
+Flo Rida,Club Can't Handle Me (feat. David Guetta),2010,"hip hop, pop",3.91,76,0.616,0.473
+Sean Kingston,Eenie Meenie,2010,"hip hop, pop, R&B",3.37,74,0.72,0.828
+Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),2010,"hip hop, pop",4.4,58,0.76,0.361
+Tinie Tempah,Written in the Stars (feat. Eric Turner),2010,"hip hop, pop, Dance/Electronic",3.46,57,0.656,0.534
+Bruno Mars,Talking to the Moon,2010,pop,3.63,76,0.498,0.0784
+Miley Cyrus,Can't Be Tamed,2010,pop,2.8,0,0.63,0.743
+Mike Posner,Cooler Than Me - Single Mix,2010,"hip hop, pop, Dance/Electronic",3.55,75,0.768,0.625
+Lady Gaga,Telephone,2009,pop,3.68,69,0.824,0.716
+Yolanda Be Cool,We No Speak Americano (JT Radio Edit),2010,Dance/Electronic,2.62,1,0.901,0.737
+Rihanna,Hard,2009,"hip hop, pop, R&B",4.18,55,0.31,0.163
+Tinie Tempah,Pass Out,2010,"hip hop, pop, Dance/Electronic",4.47,53,0.693,0.532
+Adam Lambert,Whataya Want from Me,2009,pop,3.79,57,0.438,0.457
+Trey Songz,Bottoms Up (feat. Nicki Minaj),2010,"hip hop, pop, R&B",4.03,0,0.845,0.329
+Timbaland,If We Ever Meet Again (Featuring Katy Perry),2009,"hip hop, pop, R&B",4.88,68,0.652,0.394
+Enrique Iglesias,I Like It,2010,"pop, latin",3.86,63,0.648,0.73
+Tim Berg,Seek Bromance - Avicii’s Vocal Edit,2010,"pop, Dance/Electronic",3.4,0,0.515,0.52
+Usher,OMG (feat. will.i.am),2010,"hip hop, pop, R&B",4.49,73,0.781,0.326
+Maroon 5,Misery,2010,pop,3.6,67,0.703,0.726
+Rihanna,Man Down,2010,"hip hop, pop, R&B",4.45,68,0.47,0.557
+3OH!3,My First Kiss (feat. Ke$ha),2010,"hip hop, pop, rock",3.21,62,0.682,0.827
+Justin Bieber,Baby,2010,pop,3.57,81,0.728,0.535
+Cali Swag District,Teach Me How to Dougie,2011,"hip hop, pop",3.96,66,0.846,0.512
+Swedish House Mafia,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,2010,"pop, Dance/Electronic",3.44,54,0.736,0.658
+K'NAAN,Wavin' Flag,2009,set(),3.68,57,0.625,0.717
+Ludacris,How Low,2010,"hip hop, pop",3.36,63,0.785,0.418
+Kesha,Blah Blah Blah (feat. 3OH!3),2010,"pop, Dance/Electronic",2.87,61,0.752,0.519
+DJ Khaled,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",2010,"hip hop, pop",3.88,51,0.544,0.277
+Jason Derulo,In My Head,2010,"hip hop, pop",3.32,65,0.762,0.851
+Aloe Blacc,I Need A Dollar,2010,R&B,4.05,1,0.84,0.957
+B.o.B,Airplanes (feat. Hayley Williams of Paramore),2010,"hip hop, pop",3.01,74,0.66,0.377
+Ludacris,My Chick Bad,2010,"hip hop, pop",3.62,68,0.624,0.757
+Nelly,Just A Dream,2010,"hip hop, pop, R&B",3.96,73,0.531,0.103
+Rihanna,What's My Name?,2010,"hip hop, pop, R&B",4.39,66,0.692,0.583
+Shontelle,Impossible,2010,"pop, R&B",3.78,35,0.599,0.539
+Take That,The Flood,2010,pop,4.82,57,0.514,0.138
+Trey Songz,Say Aah (feat. Fabolous),2009,"hip hop, pop, R&B",3.46,54,0.724,0.81
+Drake,Over,2010,"hip hop, pop, R&B",3.89,57,0.325,0.433
+Example,Kickstarts,2010,"pop, Dance/Electronic",3.03,63,0.61,0.657
+Plan B,She Said,2010,Dance/Electronic,3.48,62,0.72,0.815
+The Saturdays,Higher,2010,"pop, Dance/Electronic",3.46,61,0.639,0.596
+Jay Sean,Do You Remember,2009,"hip hop, pop, R&B",3.51,2,0.855,0.803
+Usher,Hey Daddy (Daddy's Home),2010,"hip hop, pop, R&B",3.73,60,0.59,0.352
+Lil Wayne,Right Above It,2010,"hip hop, pop",4.53,68,0.376,0.463
+The Wanted,All Time Low,2010,"pop, Dance/Electronic",3.42,18,0.689,0.783
+Kesha,Your Love Is My Drug,2010,"pop, Dance/Electronic",3.12,69,0.826,0.756
+Ellie Goulding,Starry Eyed,2010,"pop, rock, Dance/Electronic",2.94,54,0.504,0.596
+Drake,Find Your Love,2010,"hip hop, pop, R&B",3.48,56,0.625,0.738
+Jason Derulo,Ridin' Solo,2010,"hip hop, pop",3.6,66,0.442,0.578
+Two Door Cinema Club,What You Know,2010,"World/Traditional, rock, pop",3.16,0,0.55,0.841
+JAY-Z,Young Forever,2009,hip hop,4.23,65,0.637,0.103
+Young Money,BedRock,2009,"hip hop, pop",4.8,71,0.733,0.557
+B.o.B,Nothin' on You (feat. Bruno Mars),2010,"hip hop, pop",4.47,74,0.688,0.743
+Katy Perry,Teenage Dream,2010,pop,3.8,69,0.719,0.591
+Scouting For Girls,This Ain't a Love Song,2017,"pop, rock",3.51,52,0.458,0.553
+Travie McCoy,Billionaire (feat. Bruno Mars),2010,"hip hop, pop",3.52,72,0.633,0.659
+Owl City,Fireflies,2009,"rock, pop",3.81,78,0.512,0.472
+Alicia Keys,Empire State of Mind (Part II) Broken Down,2009,"pop, R&B",3.61,71,0.484,0.142
+Lady A,Need You Now,2010,"pop, country",3.94,73,0.581,0.316
+Taylor Swift,Back To December,2010,pop,4.88,65,0.529,0.286
+Neon Trees,Animal,2010,"rock, pop",3.54,64,0.482,0.739
+Kris Allen,Live Like We're Dying,2009,pop,3.54,51,0.589,0.94
+Matt Cardle,When We Collide,2011,pop,3.77,46,0.443,0.447
+Robyn,Dancing On My Own,2010,"pop, Dance/Electronic",4.81,0,0.687,0.261
+The Band Perry,If I Die Young,2010,country,3.71,64,0.606,0.362
+B.o.B,Magic (feat. Rivers Cuomo),2010,"hip hop, pop",3.27,65,0.549,0.787
+Adele,Rolling in the Deep,2011,"pop, R&B",3.8,2,0.73,0.507
+Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",2010,pop,3.36,77,0.722,0.624
+LMFAO,Party Rock Anthem,2011,"hip hop, pop, Dance/Electronic",4.37,73,0.751,0.352
+Katy Perry,Firework,2010,pop,3.8,72,0.638,0.648
+Bruno Mars,Grenade,2010,pop,3.7,78,0.704,0.245
+Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),2011,"hip hop, pop, latin",3.91,71,0.595,0.762
+Alexandra Stan,Mr. Saxobeat,2011,"pop, Dance/Electronic",3.25,0,0.726,0.797
+David Guetta,Who's That Chick? (feat. Rihanna),2010,"hip hop, pop, Dance/Electronic",3.35,71,0.675,0.933
+Jennifer Lopez,On The Floor,2011,"hip hop, pop, R&B",4.75,79,0.73,0.575
+Rihanna,S&M,2010,"hip hop, pop, R&B",4.06,73,0.767,0.833
+Kesha,Blow,2010,"pop, Dance/Electronic",3.67,69,0.753,0.812
+Snoop Dogg,Sweat - Remix,2011,"hip hop, pop",3.27,68,0.813,0.731
+Taio Cruz,Higher,2010,"hip hop, pop",3.13,61,0.672,0.746
+Usher,More - RedOne Jimmy Joker Remix,2010,"hip hop, pop, R&B",3.67,67,0.551,0.794
+Example,Changed the Way You Kiss Me - Radio Edit,2011,"pop, Dance/Electronic",3.26,42,0.578,0.188
+Black Eyed Peas,Just Can’t Get Enough,2010,"hip hop, pop",3.66,76,0.659,0.262
+David Guetta,Where Them Girls At (feat. Nicki Minaj & Flo Rida),2012,"hip hop, pop, Dance/Electronic",3.25,72,0.666,0.552
+Lykke Li,I Follow Rivers - The Magician Remix,2011,"pop, Dance/Electronic",4.69,51,0.786,0.285
+Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",2011,"hip hop, pop, latin",4.21,81,0.671,0.53
+Selena Gomez & The Scene,Love You Like A Love Song,2011,"pop, Dance/Electronic",3.14,79,0.858,0.922
+Wiz Khalifa,Black and Yellow,2011,"hip hop, pop",3.63,75,0.684,0.538
+Katy Perry,E.T.,2012,pop,3.83,65,0.62,0.76
+Britney Spears,I Wanna Go,2011,pop,3.5,66,0.696,0.787
+Gym Class Heroes,Stereo Hearts (feat. Adam Levine),2011,"hip hop, pop",3.52,81,0.646,0.796
+Enrique Iglesias,Tonight (I'm Fuckin' You),2010,"pop, latin",3.87,63,0.648,0.321
+Jeremih,Down On Me,2010,"hip hop, pop, R&B",3.81,72,0.7,0.594
+Sak Noel,Loca People - Radio Edit,2011,Dance/Electronic,3.59,49,0.926,0.701
+Olly Murs,Heart Skips a Beat (feat. Rizzle Kicks),2011,"pop, Dance/Electronic",3.37,61,0.843,0.876
+LMFAO,Sexy And I Know It,2011,"hip hop, pop, Dance/Electronic",3.32,67,0.707,0.795
+Cobra Starship,You Make Me Feel... (feat. Sabi),2011,"pop, Dance/Electronic",3.59,70,0.668,0.748
+Jessie J,Do It Like A Dude,2011,"hip hop, pop",3.25,57,0.663,0.375
+DJ Fresh,Louder (feat. Sian Evans) - Radio Edit,2012,"pop, Dance/Electronic",3.45,55,0.31,0.493
+Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),2010,"hip hop, pop",4.4,76,0.76,0.361
+Nickelback,When We Stand Together,2011,"rock, metal",3.18,65,0.446,0.88
+M83,Midnight City,2011,"rock, pop, metal, Dance/Electronic",4.07,76,0.507,0.272
+Britney Spears,Till the World Ends,2011,pop,3.97,65,0.693,0.45
+Labrinth,Earthquake (feat. Tinie Tempah),2012,pop,4.58,62,0.54,0.258
+Jason Derulo,Don't Wanna Go Home,2011,"hip hop, pop",3.43,63,0.671,0.637
+Coldplay,Paradise,2011,"rock, pop",4.65,82,0.449,0.212
+Katy Perry,Last Friday Night (T.G.I.F.),2012,pop,3.85,74,0.649,0.765
+Adele,Set Fire to the Rain,2011,"pop, R&B",4.05,2,0.603,0.445
+Dr. Dre,I Need A Doctor,2011,hip hop,4.73,71,0.594,0.397
+Lil Wayne,6 Foot 7 Foot,2011,"hip hop, pop",4.14,1,0.364,0.606
+DJ Khaled,I'm On One,2011,"hip hop, pop",4.94,70,0.413,0.438
+Chris Brown,Look At Me Now (feat. Lil' Wayne & Busta Rhymes),2011,"hip hop, pop, R&B",3.71,71,0.767,0.538
+Far East Movement,Rocketeer,2010,"hip hop, pop",3.52,61,0.664,0.357
+The Wanted,Glad You Came,2011,"pop, Dance/Electronic",3.3,77,0.722,0.452
+Kesha,We R Who We R,2010,"pop, Dance/Electronic",3.41,71,0.736,0.653
+Kelly Rowland,Motivation,2011,"hip hop, pop, R&B",3.84,65,0.744,0.266
+Rihanna,We Found Love,2011,"hip hop, pop, R&B",3.59,75,0.735,0.6
+Nicole Scherzinger,Don't Hold Your Breath,2011,"pop, Dance/Electronic",3.29,62,0.66,0.674
+Mann,Buzzin Remix,2011,"hip hop, pop",3.74,48,0.687,0.539
+Chris Brown,Yeah 3x,2011,"hip hop, pop, R&B",4.03,69,0.705,0.7
+Swedish House Mafia,Save The World,2011,"pop, Dance/Electronic",3.56,65,0.507,0.4
+Kanye West,All Of The Lights,2010,hip hop,4.99,76,0.531,0.221
+Miguel,Sure Thing,2010,"pop, R&B",3.26,78,0.684,0.498
+Diddy - Dirty Money,Coming Home,2010,"hip hop, pop, R&B",3.98,69,0.392,0.232
+Chris Brown,Beautiful People,2019,"hip hop, pop, R&B",3.76,53,0.415,0.536
+Avril Lavigne,What the Hell,2011,pop,3.68,74,0.578,0.877
+Professor Green,Read All About It,2011,Dance/Electronic,3.93,39,0.656,0.445
+Chase & Status,Blind Faith,2011,Dance/Electronic,3.89,60,0.45,0.402
+Chip,Champion (feat. Chris Brown),2011,"hip hop, Dance/Electronic",3.95,48,0.415,0.52
+Selena Gomez & The Scene,Who Says,2011,"pop, Dance/Electronic",3.26,76,0.682,0.744
+Rizzle Kicks,Down With The Trumpets,2011,hip hop,3.11,59,0.753,0.794
+Lady Gaga,Born This Way,2011,pop,4.34,72,0.587,0.494
+Nicki Minaj,Super Bass,2010,"hip hop, pop",3.33,0,0.72,0.669
+Mac Miller,Donald Trump,2011,hip hop,2.77,61,0.636,0.836
+Calvin Harris,Bounce (feat. Kelis) - Radio Edit,2012,"hip hop, pop, Dance/Electronic",3.7,62,0.779,0.759
+David Guetta,Without You (feat. Usher),2012,"hip hop, pop, Dance/Electronic",3.47,70,0.608,0.402
+Foster The People,Pumped Up Kicks,2011,"rock, pop",3.99,82,0.733,0.965
+Drake,Headlines,2011,"hip hop, pop, R&B",3.93,74,0.636,0.425
+Jessie J,Price Tag,2011,"hip hop, pop",3.72,73,0.636,0.668
+Jason Aldean,Dirt Road Anthem,2010,country,3.82,53,0.678,0.658
+Wiz Khalifa,Roll Up,2011,"hip hop, pop",3.8,63,0.523,0.602
+OneRepublic,Good Life,2009,pop,4.22,72,0.634,0.645
+Bad Meets Evil,Lighters,2011,"hip hop, pop",5.06,68,0.676,0.144
+Bruno Mars,The Lazy Song,2010,pop,3.15,75,0.794,0.955
+Lupe Fiasco,The Show Goes On,2011,"hip hop, pop",3.99,70,0.591,0.65
+James Morrison,I Won't Let You Go,2011,"pop, R&B",3.82,64,0.537,0.161
+Jason Derulo,It Girl,2011,"hip hop, pop",3.2,70,0.668,0.345
+Adele,Someone Like You,2011,"pop, R&B",4.75,4,0.554,0.288
+Red Hot Chili Peppers,The Adventures of Rain Dance Maggie,2011,rock,4.71,65,0.683,0.576
+Keri Hilson,Pretty Girl Rock,2010,"pop, R&B",4.07,67,0.666,0.9
+P!nk,F**kin' Perfect,2010,pop,3.56,60,0.563,0.45
+Blake Shelton,Honey Bee,2011,country,3.51,50,0.481,0.723
+Lady Gaga,The Edge Of Glory,2011,pop,5.34,67,0.583,0.357
+Lady A,Just A Kiss,2011,"pop, country",3.65,63,0.593,0.332
+Hot Chelle Rae,Tonight Tonight,2011,"hip hop, pop, rock",3.34,73,0.686,0.814
+Grouplove,Tongue Tied,2011,"pop, rock, Folk/Acoustic",3.63,79,0.56,0.371
+Coldplay,Every Teardrop Is a Waterfall,2011,"rock, pop",4.01,69,0.425,0.333
+Beyoncé,Best Thing I Never Had,2011,"pop, R&B",4.23,69,0.545,0.297
+P!nk,Raise Your Glass,2010,pop,3.38,76,0.7,0.624
+Christina Perri,Jar of Hearts,2011,pop,4.11,72,0.349,0.0886
+Bruno Mars,Marry You,2010,pop,3.84,75,0.621,0.452
+Lil Wayne,How To Love,2011,"hip hop, pop",4.01,0,0.644,0.272
+Charlene Soraia,Wherever You Will Go,2011,pop,3.29,60,0.597,0.128
+Christina Perri,A Thousand Years,2011,pop,4.75,70,0.421,0.161
+Carly Rae Jepsen,Call Me Maybe,2012,"pop, Dance/Electronic",3.22,78,0.783,0.66
+fun.,We Are Young (feat. Janelle Monáe),2012,"rock, pop",4.18,76,0.378,0.735
+Sean Paul,She Doesn't Mind,2012,"hip hop, pop",3.8,70,0.718,0.622
+Pitbull,International Love (feat. Chris Brown),2011,"hip hop, pop, latin",3.79,74,0.67,0.648
+DEV,In The Dark,2012,"pop, Dance/Electronic",3.77,52,0.736,0.443
+Adele,Skyfall,2012,"pop, R&B",4.77,74,0.346,0.0789
+David Guetta,Turn Me On (feat. Nicki Minaj),2012,"hip hop, pop, Dance/Electronic",3.33,65,0.704,0.412
+Rihanna,Where Have You Been,2011,"hip hop, pop, R&B",4.04,71,0.719,0.444
+JAY-Z,Ni**as In Paris,2011,hip hop,3.66,82,0.789,0.775
+Maroon 5,One More Night,2012,pop,3.66,74,0.716,0.618
+Skrillex,Bangarang (feat. Sirah),2011,"hip hop, pop, Dance/Electronic",3.59,70,0.716,0.576
+The Wanted,Chasing The Sun,2012,"pop, Dance/Electronic",3.31,69,0.637,0.68
+Flo Rida,Whistle,2012,"hip hop, pop",3.74,77,0.747,0.739
+will.i.am,This Is Love,2013,"hip hop, pop",4.65,62,0.535,0.282
+David Guetta,She Wolf (Falling to Pieces) [feat. Sia],2012,"hip hop, pop, Dance/Electronic",3.71,66,0.492,0.393
+Nicki Minaj,Pound The Alarm,2012,"hip hop, pop",3.43,64,0.728,0.591
+Kendrick Lamar,Swimming Pools (Drank) - Extended Version,2012,hip hop,5.23,63,0.716,0.26
+MARINA,Primadonna,2012,"pop, Dance/Electronic",3.68,78,0.66,0.427
+Kanye West,Mercy,2012,hip hop,5.49,73,0.563,0.426
+DJ Fresh,Hot Right Now (feat. RITA ORA) - Radio Edit,2012,"pop, Dance/Electronic",3.04,58,0.524,0.476
+PSY,Gangnam Style (강남스타일),2012,pop,3.66,72,0.727,0.749
+Kesha,Die Young,2012,"pop, Dance/Electronic",3.53,78,0.711,0.801
+Usher,Scream,2012,"hip hop, pop, R&B",3.91,66,0.616,0.569
+Olly Murs,Troublemaker (feat. Flo Rida),2012,"pop, Dance/Electronic",3.09,0,0.762,0.965
+Linkin Park,BURN IT DOWN,2012,"rock, metal",3.84,73,0.585,0.585
+Bruno Mars,Locked out of Heaven,2012,pop,3.89,85,0.726,0.867
+Avicii,Levels - Radio Edit,2011,"pop, Dance/Electronic",3.33,77,0.584,0.464
+Flo Rida,Good Feeling,2012,"hip hop, pop",4.14,76,0.706,0.684
+Rihanna,Diamonds,2012,"hip hop, pop, R&B",3.75,75,0.564,0.393
+Wiz Khalifa,"Work Hard, Play Hard",2012,"hip hop, pop",3.65,62,0.787,0.485
+Katy Perry,Part Of Me,2012,pop,3.6,73,0.678,0.769
+Nicki Minaj,Starships,2012,"hip hop, pop",3.51,75,0.747,0.751
+Kendrick Lamar,m.A.A.d city,2012,hip hop,5.84,67,0.487,0.217
+Asaf Avidan & the Mojos,One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],2012,pop,3.54,0,0.821,0.559
+Florence + The Machine,Spectrum (Say My Name) - Calvin Harris Remix,2011,"rock, pop, Dance/Electronic",3.64,68,0.578,0.588
+Azealia Banks,212,2014,"hip hop, pop, R&B",3.42,0,0.847,0.626
+Maroon 5,Payphone,2012,pop,3.85,82,0.743,0.545
+James Arthur,Impossible,2013,pop,3.49,75,0.376,0.302
+Michel Teló,Ai Se Eu Te Pego - Live,2012,"country, latin",2.78,0,0.676,0.85
+Otto Knows,Million Voices - Radio Edit,2012,"pop, Dance/Electronic",3.21,0,0.582,0.0694
+Icona Pop,I Love It,2012,"pop, Dance/Electronic",2.61,51,0.71,0.86
+Tyga,Rack City,2012,"hip hop, pop",3.39,61,0.929,0.273
+Calvin Harris,Feel So Close - Radio Edit,2012,"hip hop, pop, Dance/Electronic",3.44,79,0.707,0.919
+Jennifer Lopez,Dance Again,2012,"hip hop, pop, R&B",3.95,0,0.797,0.716
+Grimes,Oblivion,2012,"pop, rock, Dance/Electronic",4.19,0,0.697,0.486
+Adele,Rumour Has It,2011,"pop, R&B",3.72,0,0.612,0.574
+Chris Brown,Turn Up the Music,2012,"hip hop, pop, R&B",3.8,64,0.594,0.643
+Frank Ocean,Lost,2012,"hip hop, pop, R&B",3.9,64,0.913,0.497
+Calvin Harris,Let's Go (feat. Ne-Yo),2012,"hip hop, pop, Dance/Electronic",3.88,66,0.71,0.875
+The Script,Hall of Fame (feat. will.i.am),2012,"pop, rock",3.38,78,0.421,0.629
+Swedish House Mafia,Don't You Worry Child - Radio Edit,2012,"pop, Dance/Electronic",3.55,76,0.612,0.438
+MARINA,How to Be a Heartbreaker,2012,"pop, Dance/Electronic",3.69,50,0.69,0.849
+Justin Bieber,Boyfriend,2012,pop,2.86,63,0.717,0.331
+David Guetta,Titanium (feat. Sia),2012,"hip hop, pop, Dance/Electronic",4.08,79,0.604,0.301
+Jessie J,Domino,2011,"hip hop, pop",3.86,74,0.758,0.781
+Taylor Swift,I Knew You Were Trouble.,2012,pop,3.66,59,0.622,0.679
+ScHoolboy Q,Hands on the Wheel (feat. Asap Rocky),2012,"hip hop, pop",3.29,61,0.646,0.179
+P!nk,Try,2012,pop,4.13,76,0.674,0.552
+Robbie Williams,Candy,2012,"pop, rock",3.35,68,0.715,0.879
+Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)",2011,"hip hop, pop",3.46,77,0.715,0.531
+Justin Bieber,As Long As You Love Me,2012,pop,3.82,67,0.571,0.613
+Rita Ora,R.I.P. (feat. Tinie Tempah),2012,"hip hop, pop, Dance/Electronic",3.8,46,0.603,0.358
+Alex Clare,Too Close,2011,rock,4.28,60,0.588,0.271
+Tyga,Faded,2012,"hip hop, pop",3.44,58,0.831,0.339
+Alesso,Years - ラジオ・エディット,2012,"pop, Dance/Electronic",3.26,0,0.37,0.323
+Guy Sebastian,Battle Scars (feat. Lupe Fiasco),2012,pop,4.17,0,0.61,0.508
+Katy Perry,The One That Got Away,2012,pop,3.79,72,0.687,0.864
+Avicii,Silhouettes - Original Radio Edit,2012,"pop, Dance/Electronic",3.53,53,0.605,0.836
+Gotye,Somebody That I Used To Know,2011,set(),4.08,57,0.863,0.674
+Flo Rida,Wild Ones (feat. Sia),2012,"hip hop, pop",3.88,77,0.608,0.437
+One Direction,What Makes You Beautiful,2012,pop,3.33,82,0.726,0.888
+Lana Del Rey,Born To Die,2012,pop,4.77,53,0.18,0.39
+Kesha,C'Mon,2012,"pop, Dance/Electronic",3.57,0,0.558,0.286
+Owl City,Good Time,2012,"rock, pop",3.43,77,0.56,0.682
+Calvin Harris,We'll Be Coming Back (feat. Example),2012,"hip hop, pop, Dance/Electronic",3.91,62,0.596,0.571
+Emeli Sandé,"Read All About It, Pt. III",2012,"pop, R&B",4.73,65,0.63,0.343
+Ellie Goulding,Lights - Single Version,2010,"pop, rock, Dance/Electronic",3.51,63,0.682,0.78
+Train,Drive By,2012,pop,3.27,77,0.765,0.721
+Disclosure,Latch,2013,"pop, Dance/Electronic",4.26,74,0.503,0.521
+Coldplay,Princess of China,2011,"rock, pop",3.99,66,0.42,0.237
+One Direction,Live While We're Young,2012,pop,3.34,0,0.658,0.936
+Gym Class Heroes,Ass Back Home (feat. Neon Hitch),2011,"hip hop, pop",3.7,61,0.716,0.646
+Carrie Underwood,Blown Away,2012,"pop, country",4.0,63,0.531,0.392
+alt-J,Breezeblocks,2012,rock,3.78,71,0.616,0.286
+Chris Brown,Don't Wake Me Up,2012,"hip hop, pop, R&B",3.71,62,0.602,0.206
+Kelly Clarkson,Stronger (What Doesn't Kill You),2011,"pop, R&B",3.7,74,0.562,0.684
+Drake,The Motto,2011,"hip hop, pop, R&B",3.03,74,0.766,0.39
+Katy Perry,Wide Awake,2012,pop,3.68,65,0.514,0.575
+Rita Ora,How We Do (Party),2012,"hip hop, pop, Dance/Electronic",4.12,48,0.738,0.689
+Rudimental,Feel the Love (feat. John Newman),2013,"pop, Dance/Electronic",4.09,64,0.389,0.238
+Lana Del Rey,Ride,2012,pop,4.82,66,0.373,0.189
+Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),2012,"pop, R&B",4.19,69,0.658,0.248
+Demi Lovato,Give Your Heart a Break,2011,pop,3.42,71,0.651,0.569
+Drake,Take Care,2011,"hip hop, pop, R&B",4.62,75,0.629,0.299
+Little Mix,Wings,2012,pop,3.66,0,0.738,0.538
+Bruno Mars,It Will Rain,2011,pop,4.3,74,0.576,0.476
+Cher Lloyd,Want U Back,2011,"pop, Dance/Electronic",3.57,67,0.696,0.573
+Lorde,Royals,2013,"pop, Dance/Electronic",3.17,77,0.674,0.337
+Robin Thicke,Blurred Lines,2013,"pop, R&B",4.38,55,0.861,0.881
+Imagine Dragons,Radioactive,2012,rock,3.11,77,0.448,0.236
+Avicii,Wake Me Up,2013,"pop, Dance/Electronic",4.12,6,0.532,0.643
+Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),2012,"hip hop, pop",3.93,1,0.781,0.662
+Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2013,"hip hop, Dance/Electronic",4.14,83,0.794,0.862
+will.i.am,Scream & Shout,2013,"hip hop, pop",4.72,78,0.772,0.501
+Stromae,Papaoutai,2013,pop,3.87,0,0.733,0.253
+Bingo Players,Get Up (Rattle) - Vocal Edit,2013,"pop, Dance/Electronic",2.78,1,0.801,0.722
+Naughty Boy,La La La,2013,Dance/Electronic,3.68,58,0.754,0.254
+Tom Odell,Another Love,2013,pop,4.07,88,0.445,0.131
+2 Chainz,We Own It (Fast & Furious),2013,"hip hop, pop",3.8,69,0.563,0.559
+David Guetta,Play Hard (feat. Ne-Yo & Akon),2012,"hip hop, pop, Dance/Electronic",3.35,69,0.691,0.8
+Pitbull,Feel This Moment (feat. Christina Aguilera),2012,"hip hop, pop, latin",3.83,77,0.673,0.542
+will.i.am,#thatPOWER,2013,"hip hop, pop",4.66,68,0.797,0.402
+Lil Wayne,Love Me,2013,"hip hop, pop",4.25,68,0.669,0.496
+Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),2012,"hip hop, pop",4.31,81,0.641,0.847
+Martin Garrix,Animals - Radio Edit,2013,"pop, Dance/Electronic",2.94,0,0.593,0.0381
+Jason Derulo,Talk Dirty (feat. 2 Chainz),2013,"hip hop, pop",2.96,56,0.76,0.759
+John Newman,Love Me Again,2013,set(),4.0,74,0.495,0.213
+Britney Spears,Work B**ch,2013,pop,4.13,0,0.63,0.85
+The Neighbourhood,Sweater Weather,2013,"rock, pop",4.01,89,0.612,0.398
+Sebastian Ingrosso,Reload - Radio Edit,2013,"pop, Dance/Electronic",3.69,68,0.485,0.433
+Capital Cities,Safe And Sound,2013,pop,3.21,0,0.652,0.836
+Demi Lovato,Heart Attack,2013,pop,3.51,79,0.504,0.502
+Arctic Monkeys,Why'd You Only Call Me When You're High?,2013,rock,2.69,84,0.691,0.8
+Justin Bieber,Beauty And A Beat,2012,pop,3.8,73,0.602,0.526
+Eminem,The Monster,2013,hip hop,4.17,75,0.781,0.624
+Pitbull,Don't Stop the Party (feat. TJR),2012,"hip hop, pop, latin",3.44,64,0.722,0.952
+Selena Gomez,Come & Get It,2013,pop,3.87,69,0.546,0.573
+P!nk,True Love (feat. Lily Allen),2012,pop,3.85,71,0.457,0.578
+Disclosure,White Noise,2013,"pop, Dance/Electronic",4.63,54,0.665,0.902
+Flo Rida,I Cry,2012,"hip hop, pop",3.73,60,0.693,0.763
+Kanye West,Black Skinhead,2013,hip hop,3.13,0,0.578,0.283
+Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,2013,pop,3.58,72,0.572,0.11
+Eminem,Berzerk,2013,hip hop,3.98,66,0.739,0.684
+Icona Pop,I Love It (feat. Charli XCX),2013,"pop, Dance/Electronic",2.62,68,0.711,0.824
+Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),2013,rock,3.11,71,0.558,0.567
+Lorde,Team,2013,"pop, Dance/Electronic",3.22,0,0.691,0.427
+Avicii,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,2012,"pop, Dance/Electronic",3.47,68,0.509,0.638
+Imagine Dragons,Demons,2012,rock,2.96,81,0.505,0.428
+One Direction,One Way or Another (Teenage Kicks),2013,pop,2.62,66,0.489,0.409
+Taylor Swift,I Knew You Were Trouble.,2012,pop,3.66,76,0.622,0.679
+Arctic Monkeys,Do I Wanna Know?,2013,rock,4.54,84,0.548,0.405
+Rudimental,Waiting All Night (feat. Ella Eyre),2013,"pop, Dance/Electronic",4.88,66,0.544,0.281
+Klangkarussell,Sonnentanz - Sun Don't Shine,2014,"pop, Dance/Electronic",3.97,68,0.579,0.155
+Calvin Harris,Drinking from the Bottle (feat. Tinie Tempah),2012,"hip hop, pop, Dance/Electronic",4.01,61,0.665,0.53
+A$AP Rocky,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",2013,hip hop,3.9,76,0.853,0.662
+Ylvis,The Fox (What Does the Fox Say?),2013,hip hop,3.56,63,0.703,0.546
+Ellie Goulding,Burn,2014,"pop, rock, Dance/Electronic",3.85,70,0.559,0.329
+Baauer,Harlem Shake,2013,Dance/Electronic,3.28,57,0.452,0.282
+Calvin Harris,I Need Your Love (feat. Ellie Goulding),2012,"hip hop, pop, Dance/Electronic",3.91,70,0.695,0.58
+Katy Perry,This Is How We Do,2013,pop,3.4,60,0.69,0.8
+AWOLNATION,Sail,2011,"pop, rock",4.32,2,0.825,0.243
+Duke Dumont,Need U (100%) [feat. A*M*E] - Radio Edit,2013,"pop, Dance/Electronic",2.91,27,0.681,0.469
+Jason Derulo,The Other Side,2013,"hip hop, pop",3.78,50,0.561,0.517
+Storm Queen,Look Right Through - MK Vocal Edit,2014,Dance/Electronic,2.51,0,0.832,0.519
+Calvin Harris,Sweet Nothing (feat. Florence Welch),2012,"hip hop, pop, Dance/Electronic",3.54,71,0.573,0.582
+Katy Perry,Unconditionally,2013,pop,3.81,0,0.555,0.369
+Wale,Bad (feat. Rihanna) - Remix,2013,"hip hop, pop, R&B",3.98,61,0.807,0.447
+Ciara,Body Party,2013,"pop, R&B",3.9,64,0.577,0.12
+Drake,Started From the Bottom,2013,"hip hop, pop, R&B",2.9,65,0.794,0.56
+Birdy,Wings,2013,pop,4.2,48,0.474,0.224
+Bastille,Of The Night,2013,"pop, rock",3.57,61,0.67,0.349
+Olly Murs,Dear Darlin',2012,"pop, Dance/Electronic",3.44,59,0.512,0.34
+Katy Perry,Roar,2013,pop,3.73,73,0.554,0.455
+Blake Shelton,Sure Be Cool If You Did,2013,country,3.6,56,0.576,0.582
+Calvin Harris,Thinking About You (feat. Ayah Marar),2012,"hip hop, pop, Dance/Electronic",4.13,65,0.725,0.748
+JAY-Z,Holy Grail,2013,hip hop,5.64,62,0.676,0.156
+Bridgit Mendler,Ready or Not,2012,pop,3.35,72,0.715,0.748
+The Saturdays,What About Us,2013,"pop, Dance/Electronic",3.68,61,0.704,0.689
+Bastille,Pompeii,2013,"pop, rock",3.57,74,0.679,0.571
+One Direction,Best Song Ever,2013,pop,3.34,76,0.652,0.486
+Nelly,Hey Porsche,2013,"hip hop, pop, R&B",3.49,57,0.726,0.952
+Zedd,Clarity,2012,"hip hop, pop, Dance/Electronic",4.52,0,0.523,0.193
+Miley Cyrus,Wrecking Ball,2013,pop,3.69,77,0.53,0.349
+Chris Brown,Fine China,2013,"hip hop, pop, R&B",3.56,0,0.659,0.609
+Daft Punk,Lose Yourself to Dance (feat. Pharrell Williams),2013,"hip hop, Dance/Electronic",5.9,69,0.832,0.674
+Armin van Buuren,This Is What It Feels Like,2013,"pop, Dance/Electronic",3.41,66,0.551,0.145
+Justin Timberlake,Mirrors,2013,pop,8.07,78,0.574,0.512
+Bruno Mars,Treasure,2012,pop,2.98,78,0.874,0.937
+Of Monsters and Men,Little Talks,2012,"pop, rock, Folk/Acoustic",4.44,79,0.457,0.417
+Miley Cyrus,We Can't Stop,2013,pop,3.85,78,0.613,0.484
+J. Cole,Power Trip (feat. Miguel),2013,hip hop,4.02,0,0.667,0.465
+Paramore,Still into You,2013,"pop, rock",3.6,79,0.602,0.765
+Christina Perri,human,2013,pop,4.18,59,0.439,0.253
+Drake,"Hold On, We're Going Home",2013,"hip hop, pop, R&B",3.8,72,0.773,0.289
+James Blunt,Bonfire Heart,2013,pop,3.97,0,0.575,0.449
+Maroon 5,Daylight,2012,pop,3.75,66,0.656,0.369
+Childish Gambino,3005,2013,hip hop,3.93,0,0.681,0.661
+Avril Lavigne,Here's to Never Growing Up,2013,pop,3.57,0,0.483,0.716
+Taylor Swift,22,2012,pop,3.87,68,0.661,0.668
+Passenger,Let Her Go,2012,pop,4.21,73,0.509,0.244
+Ariana Grande,The Way,2013,pop,3.78,65,0.645,0.862
+Rihanna,Stay,2012,"hip hop, pop, R&B",4.01,76,0.621,0.125
+Justin Timberlake,Suit & Tie (feat. Jay-Z),2013,pop,5.44,67,0.795,0.357
+Bruno Mars,When I Was Your Man,2012,pop,3.56,83,0.612,0.387
+Florida Georgia Line,Cruise,2012,country,3.48,57,0.457,0.878
+Pharrell Williams,"Happy - From ""Despicable Me 2""",2014,"hip hop, pop",3.88,79,0.647,0.962
+Katy Perry,Dark Horse,2013,pop,3.59,74,0.647,0.353
+ScHoolboy Q,Collard Greens,2014,"hip hop, pop",5.0,0,0.826,0.666
+Iggy Azalea,Fancy,2014,"hip hop, pop",3.33,69,0.912,0.377
+Maroon 5,Animals,2014,pop,3.85,79,0.279,0.328
+Sam Smith,Stay With Me,2014,pop,2.88,80,0.418,0.184
+MAGIC!,Rude,2014,set(),3.75,80,0.773,0.925
+Sia,Chandelier,2014,pop,3.6,78,0.399,0.572
+John Legend,All of Me,2013,"pop, R&B",4.49,84,0.422,0.331
+ZHU,Faded,2014,Dance/Electronic,3.72,49,0.861,0.599
+Meghan Trainor,All About That Bass,2015,pop,3.13,72,0.807,0.961
+David Guetta,Lovers on the Sun (feat. Sam Martin),2014,"hip hop, pop, Dance/Electronic",3.39,50,0.645,0.568
+Iggy Azalea,Black Widow,2014,"hip hop, pop",3.49,67,0.743,0.519
+Tove Lo,Habits (Stay High),2014,"pop, Dance/Electronic",3.49,74,0.733,0.348
+Oliver Heldens,Gecko (Overdrive) - Radio Edit,2014,"pop, Dance/Electronic",2.76,67,0.609,0.76
+DJ Snake,You Know You Like It,2014,"hip hop, pop, Dance/Electronic",4.12,69,0.407,0.247
+Maroon 5,Maps,2014,pop,3.16,0,0.737,0.893
+David Guetta,Bad (feat. Vassy) - Radio Edit,2014,"hip hop, pop, Dance/Electronic",2.84,45,0.614,0.411
+Tinashe,2 On (feat. ScHoolboy Q),2014,"hip hop, pop, R&B, Dance/Electronic",3.78,71,0.742,0.431
+Route 94,My Love (feat. Jess Glynne),2014,"pop, Dance/Electronic",4.33,72,0.814,0.726
+Taylor Swift,Bad Blood,2014,pop,3.53,54,0.646,0.287
+Trey Songz,Na Na,2015,"hip hop, pop, R&B",3.87,62,0.67,0.235
+Calvin Harris,Under Control (feat. Hurts),2014,"hip hop, pop, Dance/Electronic",3.07,72,0.544,0.51
+O.T. Genasis,CoCo,2014,"hip hop, pop",3.99,61,0.886,0.178
+Jason Derulo,Wiggle (feat. Snoop Dogg),2013,"hip hop, pop",3.22,66,0.697,0.721
+Lilly Wood and The Prick,Prayer in C - Robin Schulz Radio Edit,2014,"pop, rock",3.16,66,0.76,0.78
+Jeremih,Don't Tell 'Em,2015,"hip hop, pop, R&B",4.45,74,0.856,0.386
+Nicki Minaj,Anaconda,2014,"hip hop, pop",4.34,66,0.964,0.646
+Calvin Harris,Blame (feat. John Newman),2014,"hip hop, pop, Dance/Electronic",3.55,75,0.414,0.348
+DJ Snake,Turn Down for What,2013,"hip hop, pop, Dance/Electronic",3.56,70,0.818,0.0815
+Pitbull,Timber (feat. Ke$ha),2012,"hip hop, pop, latin",3.4,80,0.581,0.788
+OneRepublic,Counting Stars,2014,pop,4.29,62,0.663,0.477
+Bobby Shmurda,Hot N*gga,2014,"hip hop, pop",3.24,73,0.794,0.18
+Calvin Harris,Summer,2014,"hip hop, pop, Dance/Electronic",3.74,21,0.603,0.72
+ScHoolboy Q,Man Of The Year,2014,"hip hop, pop",3.6,0,0.743,0.391
+Nico & Vinz,Am I Wrong,2014,"hip hop, pop",4.1,76,0.729,0.779
+Becky G,Shower,2014,"pop, latin",3.44,78,0.699,0.121
+Sigma,Nobody To Love - Radio Edit,2014,"pop, Dance/Electronic",3.16,62,0.441,0.182
+The Chainsmokers,#SELFIE - Original Mix,2014,"pop, Dance/Electronic",3.06,0,0.789,0.66
+Lorde,Team,2013,"pop, Dance/Electronic",3.22,76,0.69,0.416
+Rixton,Me And My Broken Heart,2014,pop,3.23,77,0.545,0.551
+Klingande,Jubel - Radio Edit,2013,"pop, Dance/Electronic",3.36,50,0.686,0.0951
+Mr. Probz,Waves - Robin Schulz Radio Edit,2014,"hip hop, Dance/Electronic",3.47,2,0.829,0.45
+Paloma Faith,Only Love Can Hurt Like This,2014,"pop, R&B, Dance/Electronic",3.88,80,0.566,0.304
+Kiesza,Hideaway,2014,"pop, Dance/Electronic",4.2,64,0.838,0.203
+Ariana Grande,Break Free,2014,pop,3.58,0,0.687,0.284
+Kid Ink,Show Me (feat. Chris Brown),2014,"hip hop, pop",3.63,68,0.711,0.663
+Tove Lo,Talking Body,2014,"pop, Dance/Electronic",3.97,66,0.736,0.114
+Chris Brown,Loyal (feat. Lil Wayne & Tyga),2014,"hip hop, pop, R&B",4.42,72,0.841,0.616
+OneRepublic,Love Runs Out,2014,pop,3.74,59,0.719,0.738
+Olly Murs,Up (feat. Demi Lovato),2014,"pop, Dance/Electronic",3.74,0,0.69,0.638
+Peking Duk,High (feat. Nicole Millar),2014,Dance/Electronic,3.8,48,0.525,0.383
+Milky Chance,Stolen Dance,2014,set(),5.23,73,0.885,0.728
+Ed Sheeran,Don't,2014,pop,3.66,72,0.806,0.849
+Ariana Grande,Love Me Harder,2014,pop,3.94,74,0.472,0.24
+Enrique Iglesias,Bailando - Spanish Version,2014,"pop, latin",4.06,66,0.718,0.96
+Avicii,Hey Brother,2013,"pop, Dance/Electronic",4.25,2,0.545,0.458
+Jessie J,Bang Bang,2014,"hip hop, pop",3.32,77,0.706,0.751
+Duke Dumont,I Got U,2014,"pop, Dance/Electronic",4.76,67,0.636,0.463
+Gorgon City,Ready For Your Love,2014,"pop, Dance/Electronic",3.31,61,0.677,0.471
+Taylor Swift,Style,2014,pop,3.85,61,0.588,0.487
+MKTO,Classic,2012,"hip hop, pop",2.92,82,0.72,0.756
+Ariana Grande,Problem,2014,pop,3.23,73,0.66,0.625
+Charli XCX,Boom Clap,2014,"pop, Dance/Electronic",2.83,49,0.659,0.576
+One Direction,Steal My Girl,2014,pop,3.8,79,0.536,0.545
+Tiësto,Red Lights,2013,"pop, Dance/Electronic",4.4,0,0.653,0.545
+Selena Gomez,The Heart Wants What It Wants,2014,pop,3.79,58,0.616,0.621
+Rita Ora,I Will Never Let You Down,2014,"hip hop, pop, Dance/Electronic",3.39,65,0.753,0.794
+5 Seconds of Summer,She Looks So Perfect,2014,pop,3.37,74,0.494,0.441
+The Script,Superheroes,2014,"pop, rock",4.09,74,0.49,0.64
+Taylor Swift,Shake It Off,2014,pop,3.65,79,0.647,0.942
+One Direction,Night Changes,2014,pop,3.78,83,0.672,0.37
+Ed Sheeran,Sing,2014,pop,3.92,69,0.818,0.939
+Alesso,Heroes (we could be),2014,"pop, Dance/Electronic",3.5,52,0.521,0.352
+Tiësto,Wasted,2014,"pop, Dance/Electronic",3.14,0,0.645,0.375
+G.R.L.,Ugly Heart,2014,pop,3.31,64,0.65,0.446
+Coldplay,A Sky Full of Stars,2014,"rock, pop",4.46,80,0.545,0.162
+Clean Bandit,Rather Be (feat. Jess Glynne),2014,"pop, Dance/Electronic",3.8,72,0.799,0.549
+Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,2014,"hip hop, pop, Dance/Electronic",3.62,63,0.596,0.461
+Sia,Elastic Heart,2014,pop,4.29,70,0.421,0.499
+One Direction,Story of My Life,2013,pop,4.09,81,0.6,0.286
+Alex & Sierra,Little Do You Know,2014,pop,3.09,75,0.5,0.37
+Omarion,Post to Be (feat. Chris Brown & Jhene Aiko),2014,"hip hop, pop, R&B",3.78,55,0.733,0.701
+Echosmith,Cool Kids,2013,pop,3.96,71,0.719,0.786
+Natalie La Rose,Somebody,2014,set(),3.17,66,0.83,0.735
+Vance Joy,Riptide,2014,"rock, pop",3.4,80,0.484,0.51
+Beyoncé,Drunk in Love (feat. Jay-Z),2014,"pop, R&B",5.39,70,0.589,0.401
+Maroon 5,Sugar,2014,pop,3.92,0,0.744,0.885
+Ella Henderson,Ghost,2014,"pop, Dance/Electronic",3.55,63,0.68,0.468
+Ed Sheeran,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",2013,pop,5.01,71,0.581,0.234
+Chris Brown,New Flame (feat. Usher & Rick Ross),2014,"hip hop, pop, R&B",4.07,67,0.702,0.446
+Sheppard,Geronimo,2014,"pop, rock, Dance/Electronic",3.64,0,0.707,0.437
+Olly Murs,Wrapped Up (feat. Travie McCoy),2014,"pop, Dance/Electronic",3.09,0,0.787,0.947
+Sam Smith,Money On My Mind,2014,pop,3.21,62,0.688,0.743
+Jason Derulo,Trumpets,2013,"hip hop, pop",3.62,53,0.627,0.64
+Nicki Minaj,Bed Of Lies,2014,"hip hop, pop",4.5,53,0.716,0.124
+Nick Jonas,Jealous - Remix,2014,pop,3.7,0,0.685,0.504
+Mark Ronson,Uptown Funk (feat. Bruno Mars),2015,pop,4.49,82,0.856,0.928
+Ed Sheeran,Thinking out Loud,2014,pop,4.69,81,0.781,0.591
+Wiz Khalifa,See You Again (feat. Charlie Puth),2015,"hip hop, pop",3.83,81,0.689,0.283
+Justin Bieber,What Do You Mean?,2015,pop,3.43,77,0.845,0.793
+Major Lazer,Lean On (feat. MØ & DJ Snake),2015,"hip hop, pop, Dance/Electronic",2.94,73,0.723,0.274
+The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",2014,"pop, R&B",4.2,76,0.659,0.426
+Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",2015,"pop, rock, Dance/Electronic",4.21,78,0.262,0.275
+Calvin Harris,Outside (feat. Ellie Goulding),2014,"hip hop, pop, Dance/Electronic",3.79,78,0.646,0.418
+David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",2014,"hip hop, pop, Dance/Electronic",3.21,75,0.596,0.525
+Demi Lovato,Cool for the Summer,2015,pop,3.58,0,0.586,0.319
+Taylor Swift,Blank Space,2014,pop,3.86,82,0.76,0.57
+The Weeknd,The Hills,2015,"pop, R&B",4.04,84,0.585,0.137
+The Neighbourhood,Daddy Issues,2015,"rock, pop",4.34,85,0.588,0.337
+Deorro,Five More Hours,2015,"pop, Dance/Electronic",3.53,66,0.699,0.499
+Avicii,The Nights,2014,"pop, Dance/Electronic",2.94,85,0.527,0.654
+Adam Lambert,Ghost Town,2015,pop,3.47,46,0.703,0.274
+Rae Sremmurd,No Type,2015,"hip hop, pop",3.33,71,0.891,0.239
+Taylor Swift,Bad Blood,2015,pop,3.34,70,0.654,0.221
+Flo Rida,GDFR (feat. Sage the Gemini & Lookas),2015,"hip hop, pop",3.17,49,0.657,0.69
+Robin Schulz,Sugar (feat. Francesco Yates),2015,"pop, Dance/Electronic",3.65,76,0.636,0.636
+Calvin Harris,How Deep Is Your Love,2015,"hip hop, pop, Dance/Electronic",3.54,76,0.738,0.336
+Philip George,Wish You Were Mine - Radio Edit,2014,"pop, Dance/Electronic",2.96,65,0.654,0.407
+Fall Out Boy,Centuries,2015,rock,3.81,80,0.393,0.56
+Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),2016,hip hop,2.95,76,0.886,0.23
+Lost Frequencies,Are You With Me - Radio Edit,2014,"pop, Dance/Electronic",2.31,33,0.776,0.412
+Twenty One Pilots,Stressed Out,2015,rock,3.37,83,0.734,0.648
+Fifth Harmony,Worth It (feat. Kid Ink),2015,pop,3.74,73,0.884,0.594
+KALEO,Way down We Go,2015,"rock, classical",3.66,63,0.59,0.264
+Sam Smith,Like I Can,2014,pop,2.78,79,0.656,0.481
+Major Lazer,Light It Up (feat. Nyla & Fuse ODG) - Remix,2015,"hip hop, pop, Dance/Electronic",2.77,49,0.746,0.751
+Martin Solveig,Intoxicated - New Radio Mix,2015,"pop, Dance/Electronic",2.66,48,0.8,0.547
+Avicii,Waiting For Love,2015,"pop, Dance/Electronic",3.84,79,0.579,0.613
+Felix Jaehn,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),2018,"hip hop, pop, Dance/Electronic",3.1,72,0.778,0.479
+Taylor Swift,Wildest Dreams,2014,pop,3.67,78,0.553,0.467
+The Weeknd,In The Night,2015,"pop, R&B",3.93,0,0.48,0.506
+Pitbull,Time of Our Lives,2014,"hip hop, pop, latin",3.82,80,0.721,0.724
+Galantis,Runaway (U & I),2015,"pop, Dance/Electronic",3.78,74,0.506,0.383
+Rihanna,Bitch Better Have My Money,2015,"hip hop, pop, R&B",3.66,73,0.781,0.395
+Zara Larsson,Lush Life,2015,"pop, Dance/Electronic",3.37,0,0.658,0.789
+One Direction,Drag Me Down,2015,pop,3.2,79,0.73,0.595
+Travis Scott,Antidote,2015,"hip hop, Dance/Electronic",4.38,73,0.713,0.131
+Years & Years,King,2015,"pop, Dance/Electronic",3.59,0,0.559,0.466
+Demi Lovato,Confident,2015,pop,3.43,64,0.594,0.344
+Lemaitre,Closer,2017,pop,4.51,59,0.583,0.355
+Selena Gomez,Same Old Love,2015,pop,3.82,69,0.672,0.438
+Pia Mia,Do It Again,2015,"pop, R&B",3.46,72,0.712,0.411
+Flo Rida,My House,2015,"hip hop, pop",3.2,76,0.688,0.74
+Silentó,Watch Me (Whip / Nae Nae),2015,hip hop,3.09,0,0.819,0.964
+Chris Brown,Ayo,2015,"hip hop, pop, R&B",3.75,71,0.823,0.682
+The Strumbellas,Spirits,2016,"rock, Folk/Acoustic, pop",3.39,71,0.556,0.787
+Fetty Wap,Trap Queen,2015,"hip hop, pop",3.7,68,0.746,0.817
+Beyoncé,7/11,2014,"pop, R&B",3.56,69,0.747,0.56
+Lana Del Rey,High By The Beach,2015,pop,4.29,67,0.536,0.0968
+Zara Larsson,Never Forget You,2017,"pop, Dance/Electronic",3.56,73,0.583,0.276
+Jeremih,oui,2015,"hip hop, pop, R&B",3.97,77,0.418,0.604
+Drake,Hotline Bling,2016,"hip hop, pop, R&B",4.45,77,0.891,0.552
+Selena Gomez,Kill Em With Kindness,2015,pop,3.63,64,0.757,0.398
+Birdy,Let It All Go,2015,pop,4.68,68,0.383,0.174
+Fetty Wap,679 (feat. Remy Boyz),2015,"hip hop, pop",3.28,74,0.618,0.603
+The Weeknd,Can't Feel My Face,2015,"pop, R&B",3.56,79,0.705,0.583
+SAYGRACE,You Don't Own Me (feat. G-Eazy),2015,"pop, R&B",3.32,55,0.336,0.294
+X Ambassadors,Renegades,2015,"hip hop, rock, pop",3.25,75,0.526,0.528
+R. City,Locked Away (feat. Adam Levine),2015,pop,3.79,77,0.509,0.55
+Kygo,Stole the Show,2016,"pop, Dance/Electronic",3.72,74,0.64,0.475
+Tame Impala,The Less I Know The Better,2015,metal,3.61,83,0.64,0.785
+Selena Gomez,Good For You,2015,pop,3.69,0,0.6,0.217
+Fetty Wap,My Way (feat. Monty),2015,"hip hop, pop",3.55,55,0.748,0.537
+Hozier,Take Me To Church,2014,"Folk/Acoustic, pop",4.03,81,0.566,0.437
+Taylor Swift,Style,2014,pop,3.85,77,0.588,0.487
+Alessia Cara,Here,2015,"pop, R&B",3.32,0,0.379,0.359
+Sam Smith,"Writing's On The Wall - From ""Spectre"" Soundtrack",2015,pop,4.65,66,0.261,0.0883
+David Guetta,Bang My Head (feat. Sia & Fetty Wap),2015,"hip hop, pop, Dance/Electronic",3.22,47,0.599,0.593
+Meek Mill,All Eyes on You (feat. Chris Brown & Nicki Minaj),2015,"hip hop, pop",3.73,68,0.589,0.251
+Big Sean,I Don't Fuck With You,2015,"hip hop, pop",4.74,75,0.824,0.395
+Kygo,Firestone,2016,"pop, Dance/Electronic",4.53,76,0.704,0.411
+Drake,Jumpman,2015,"hip hop, pop, R&B",3.43,0,0.853,0.654
+Petit Biscuit,Sunset Lover,2015,Dance/Electronic,3.96,71,0.783,0.236
+Shawn Mendes,Stitches,2015,pop,3.45,78,0.746,0.746
+Flo Rida,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",2015,"hip hop, pop",3.74,67,0.854,0.784
+Selena Gomez,The Heart Wants What It Wants,2014,pop,3.79,64,0.616,0.621
+Jack Ü,Where Are Ü Now (with Justin Bieber),2015,"pop, Dance/Electronic",4.17,74,0.432,0.197
+Ellie Goulding,On My Mind,2015,"pop, rock, Dance/Electronic",3.56,0,0.699,0.742
+Bryson Tiller,Don't,2015,"hip hop, pop, R&B",3.3,78,0.765,0.189
+Rich Homie Quan,"Flex (Ooh, Ooh, Ooh)",2015,"hip hop, pop",2.94,1,0.676,0.883
+Joel Adams,Please Don't Go,2015,R&B,3.51,71,0.513,0.235
+Zedd,I Want You To Know,2015,"hip hop, pop, Dance/Electronic",3.98,0,0.561,0.375
+Jonas Blue,Fast Car,2015,"pop, Dance/Electronic",3.54,67,0.644,0.527
+BØRNS,Electric Love,2015,"rock, pop",3.64,0,0.373,0.605
+Sigala,Easy Love,2018,"pop, Dance/Electronic",3.83,66,0.68,0.647
+Justin Bieber,Sorry,2015,pop,3.35,80,0.654,0.41
+Ariana Grande,One Last Time,2014,pop,3.29,79,0.628,0.104
+Little Mix,Black Magic,2015,pop,3.53,1,0.777,0.843
+One Direction,Perfect,2015,pop,3.84,77,0.647,0.396
+Years & Years,Shine,2015,"pop, Dance/Electronic",4.26,55,0.667,0.493
+Meghan Trainor,Lips Are Movin,2015,pop,3.04,70,0.775,0.95
+Nicky Jam,El Perdón - Forgiveness,2017,latin,3.44,51,0.736,0.656
+The Weeknd,Starboy,2016,"pop, R&B",3.84,0,0.681,0.535
+Drake,One Dance,2016,"hip hop, pop, R&B",2.9,84,0.792,0.37
+Justin Bieber,Love Yourself,2015,pop,3.9,0,0.609,0.515
+The Chainsmokers,Closer,2016,"pop, Dance/Electronic",4.08,83,0.748,0.661
+Adele,Hello,2015,"pop, R&B",4.93,1,0.471,0.289
+Desiigner,Panda,2016,"hip hop, pop",4.11,70,0.576,0.236
+Burak Yeter,Tuesday (feat. Danelle Sandoval),2016,Dance/Electronic,4.03,72,0.841,0.675
+Sia,Cheap Thrills (feat. Sean Paul),2016,pop,3.75,67,0.592,0.728
+OneRepublic,Wherever I Go,2016,pop,2.83,70,0.552,0.349
+Rihanna,Work,2016,"hip hop, pop, R&B",3.66,75,0.725,0.558
+Coldplay,Hymn for the Weekend,2015,"rock, pop",4.3,82,0.491,0.412
+Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",2016,pop,3.93,76,0.666,0.702
+WILLOW,Wait a Minute!,2015,"pop, R&B, Dance/Electronic",3.28,86,0.764,0.672
+Desiigner,Tiimmy Turner,2016,"hip hop, pop",4.0,67,0.603,0.304
+G-Eazy,"Me, Myself & I",2015,"hip hop, pop",4.19,77,0.756,0.389
+David Guetta,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),2016,"hip hop, pop, Dance/Electronic",3.45,68,0.367,0.365
+Astrid S,Hurts So Good,2016,"rock, pop, Dance/Electronic",3.48,0,0.672,0.379
+Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",2016,"hip hop, pop",4.06,75,0.502,0.739
+Twenty One Pilots,Heathens,2016,rock,3.27,80,0.732,0.548
+Future,Low Life (feat. The Weeknd),2016,"hip hop, pop",5.23,74,0.722,0.102
+Galantis,No Money,2016,"pop, Dance/Electronic",3.15,67,0.671,0.803
+The Chainsmokers,Don't Let Me Down,2016,"pop, Dance/Electronic",3.47,79,0.532,0.422
+Tinie Tempah,Girls Like (feat. Zara Larsson),2016,"hip hop, pop, Dance/Electronic",3.27,62,0.916,0.538
+Alok,Hear Me Now,2016,"pop, Dance/Electronic",3.21,51,0.788,0.461
+Jon Bellion,All Time Low,2016,"hip hop, pop",3.63,70,0.617,0.505
+Cheat Codes,Sex,2016,"pop, Dance/Electronic",3.81,0,0.51,0.209
+Meghan Trainor,NO,2017,pop,3.56,69,0.557,0.657
+Dua Lipa,Hotter Than Hell,2017,pop,3.13,65,0.532,0.529
+Martin Garrix,In the Name of Love,2016,"pop, Dance/Electronic",3.26,76,0.501,0.168
+Alan Walker,Faded,2018,Dance/Electronic,3.54,78,0.468,0.159
+Tove Lo,Cool Girl,2016,"pop, Dance/Electronic",3.3,0,0.674,0.234
+DJ Snake,Let Me Love You,2016,"hip hop, pop, Dance/Electronic",3.43,81,0.649,0.163
+Calvin Harris,This Is What You Came For (feat. Rihanna),2016,"hip hop, pop, Dance/Electronic",3.7,79,0.631,0.465
+Mike Posner,I Took A Pill In Ibiza - Seeb Remix,2016,"hip hop, pop, Dance/Electronic",3.3,77,0.664,0.71
+Kevin Gates,2 Phones,2016,"hip hop, pop",4.0,69,0.895,0.554
+Rihanna,Needed Me,2016,"hip hop, pop, R&B",3.19,80,0.671,0.296
+Ariana Grande,Side To Side,2016,pop,3.77,0,0.648,0.603
+Marshmello,Alone,2016,"pop, Dance/Electronic",4.56,71,0.631,0.422
+Shawn Mendes,I Know What You Did Last Summer,2015,pop,3.73,73,0.687,0.743
+Calvin Harris,My Way,2016,"hip hop, pop, Dance/Electronic",3.65,74,0.818,0.536
+Fitz and The Tantrums,HandClap,2016,"pop, rock",3.22,64,0.636,0.715
+Twenty One Pilots,Ride,2015,rock,3.58,80,0.645,0.566
+Ariana Grande,Dangerous Woman,2016,pop,3.93,0,0.677,0.297
+Anne-Marie,Alarm,2016,"pop, Dance/Electronic",3.43,57,0.756,0.811
+Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),2016,pop,3.63,79,0.728,0.352
+AlunaGeorge,I'm In Control,2016,"pop, Dance/Electronic",3.49,0,0.734,0.673
+Enrique Iglesias,DUELE EL CORAZON (feat. Wisin),2016,"pop, latin",3.33,68,0.716,0.869
+MNEK,Never Forget You,2015,Dance/Electronic,3.56,45,0.583,0.276
+Mike Perry,The Ocean (feat. Shy Martin),2016,"pop, Dance/Electronic",3.06,70,0.632,0.188
+Drake,Hotline Bling,2016,"hip hop, pop, R&B",4.45,0,0.903,0.539
+Ariana Grande,Into You,2016,pop,4.07,3,0.623,0.37
+Shawn Mendes,Treat You Better,2017,pop,3.13,82,0.444,0.747
+Tory Lanez,Say It,2016,"hip hop, pop, R&B",3.96,73,0.546,0.247
+Coldplay,Adventure of a Lifetime,2015,"rock, pop",4.4,76,0.638,0.53
+Kungs,This Girl - Kungs Vs. Cookin' On 3 Burners,2016,"pop, Dance/Electronic",3.26,0,0.79,0.501
+SAYGRACE,You Don't Own Me (feat. G-Eazy),2016,"pop, R&B",3.36,69,0.332,0.261
+DNCE,Cake By The Ocean,2016,pop,3.65,79,0.774,0.896
+99 Souls,The Girl Is Mine,2016,Dance/Electronic,3.61,55,0.683,0.706
+Illy,Papercuts (feat. Vera Blue),2016,"hip hop, pop, Dance/Electronic",4.26,51,0.369,0.467
+Kiiara,Gold,2015,"rock, pop, Dance/Electronic",3.76,55,0.6,0.408
+Kygo,Stole the Show,2016,"pop, Dance/Electronic",3.71,0,0.678,0.478
+Fifth Harmony,Work from Home (feat. Ty Dolla $ign),2016,pop,3.57,75,0.803,0.593
+Drake,Pop Style,2016,"hip hop, pop, R&B",3.55,63,0.713,0.0594
+ZAYN,PILLOWTALK,2016,"pop, Dance/Electronic",3.39,59,0.588,0.429
+Alessia Cara,Here,2016,"pop, R&B",3.32,66,0.376,0.327
+DJ Snake,Middle,2016,"hip hop, pop, Dance/Electronic",3.68,0,0.611,0.213
+Sigala,Sweet Lovin' - Radio Edit,2015,"pop, Dance/Electronic",3.37,46,0.683,0.674
+Drake,Jumpman,2015,"hip hop, pop, R&B",3.43,72,0.852,0.656
+Charlie Puth,Dangerously,2016,pop,3.32,62,0.696,0.23
+Nick Jonas,Close,2016,pop,3.9,69,0.654,0.401
+Jonas Blue,Perfect Strangers,2016,"pop, Dance/Electronic",3.28,0,0.742,0.709
+Major Lazer,Cold Water (feat. Justin Bieber & MØ),2016,"hip hop, pop, Dance/Electronic",3.09,0,0.608,0.501
+The Chainsmokers,Roses,2015,"pop, Dance/Electronic",3.78,73,0.713,0.343
+Tory Lanez,LUV,2016,"hip hop, pop, R&B",3.81,0,0.688,0.247
+P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",2016,pop,3.59,68,0.632,0.523
+Steve Aoki,Just Hold On,2016,"hip hop, pop, Dance/Electronic",3.31,63,0.647,0.374
+Clean Bandit,Tears (feat. Louisa Johnson),2016,"pop, Dance/Electronic",3.77,60,0.605,0.298
+Jonas Blue,Fast Car,2015,"pop, Dance/Electronic",3.54,1,0.459,0.581
+Flume,Never Be Like You,2016,Dance/Electronic,3.89,0,0.443,0.248
+Bastille,Good Grief,2016,"pop, rock",3.44,65,0.73,0.877
+Sia,The Greatest (feat. Kendrick Lamar),2016,pop,3.5,68,0.668,0.729
+PARTYNEXTDOOR,Not Nice,2016,"hip hop, pop, R&B",3.38,62,0.598,0.725
+Garrett Nash,"i hate u, i love u (feat. olivia o'brien)",2016,"hip hop, pop",4.18,77,0.492,0.18
+Hilltop Hoods,1955,2016,"hip hop, pop",3.99,63,0.766,0.71
+Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),2016,pop,3.51,62,0.689,0.755
+Daya,"Sit Still, Look Pretty",2016,"rock, pop, Dance/Electronic",3.37,1,0.657,0.543
+Kent Jones,Don't Mind,2016,hip hop,3.3,63,0.464,0.69
+Flume,Say It,2016,Dance/Electronic,4.38,53,0.581,0.273
+Bryson Tiller,Exchange,2015,"hip hop, pop, R&B",3.24,76,0.525,0.276
+MØ,Final Song,2016,"pop, Dance/Electronic",3.93,66,0.695,0.245
+Beyoncé,Sorry,2016,"pop, R&B",3.88,67,0.775,0.356
+Little Mix,Shout Out to My Ex,2017,pop,4.1,1,0.773,0.8
+The Lumineers,Ophelia,2016,"pop, Folk/Acoustic",2.67,0,0.664,0.621
+Frank Ocean,Pink + White,2016,"hip hop, pop, R&B",3.08,79,0.544,0.554
+Drake,Too Good,2016,"hip hop, pop, R&B",4.39,74,0.794,0.397
+Ed Sheeran,Shape of You,2017,pop,3.9,84,0.825,0.931
+Sean Paul,No Lie,2018,"hip hop, pop",3.69,84,0.742,0.463
+Luis Fonsi,Despacito (Featuring Daddy Yankee),2017,"pop, latin",3.8,0,0.66,0.846
+Sam Smith,Too Good At Goodbyes,2017,pop,3.35,79,0.681,0.476
+Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),2016,"pop, Dance/Electronic",4.18,75,0.72,0.742
+Camila Cabello,Havana (feat. Young Thug),2017,pop,3.61,1,0.768,0.418
+Imagine Dragons,Thunder,2017,rock,3.12,1,0.6,0.298
+Maroon 5,Don't Wanna Know (feat. Kendrick Lamar),2018,pop,3.57,68,0.783,0.418
+The Chainsmokers,Something Just Like This,2017,"pop, Dance/Electronic",4.12,83,0.617,0.446
+Ed Sheeran,Perfect,2017,pop,4.39,85,0.599,0.168
+MGMT,Little Dark Age,2018,rock,5.0,81,0.705,0.62
+Travis Scott,goosebumps,2016,"hip hop, Dance/Electronic",4.06,83,0.841,0.43
+Billie Eilish,Bored,2017,"pop, Dance/Electronic",3.02,84,0.614,0.112
+Future,Mask Off,2017,"hip hop, pop",3.41,79,0.833,0.281
+G-Eazy,Him & I,2017,"hip hop, pop",4.48,0,0.589,0.191
+Maroon 5,Cold (feat. Future),2017,pop,3.91,0,0.697,0.506
+Rae Sremmurd,Swang,2016,"hip hop, pop",3.47,75,0.681,0.166
+Lil Peep,Save That Shit,2017,hip hop,3.86,77,0.534,0.145
+A$AP Ferg,Plain Jane,2017,"hip hop, pop",2.89,74,0.797,0.52
+French Montana,Unforgettable,2017,"hip hop, pop",3.9,82,0.726,0.733
+21 Savage,Bank Account,2017,hip hop,3.67,74,0.884,0.376
+Axwell /\ Ingrosso,More Than You Know,2017,"pop, Dance/Electronic",3.38,0,0.645,0.534
+ZAYN,Dusk Till Dawn (feat. Sia) - Radio Edit,2017,"pop, Dance/Electronic",3.98,77,0.259,0.0951
+J Balvin,Mi Gente,2017,latin,3.15,53,0.548,0.309
+Jax Jones,You Don't Know Me - Radio Edit,2016,"hip hop, pop, Dance/Electronic",3.57,1,0.876,0.682
+Rae Sremmurd,Black Beatles,2016,"hip hop, pop",4.86,75,0.794,0.355
+Zara Larsson,Ain't My Fault,2017,"pop, Dance/Electronic",3.73,67,0.576,0.355
+Travis Scott,BUTTERFLY EFFECT,2017,"hip hop, Dance/Electronic",3.18,0,0.763,0.182
+Ayo & Teo,Rolex,2017,"hip hop, pop",3.98,69,0.804,0.789
+Lil Uzi Vert,XO Tour Llif3,2017,hip hop,3.05,81,0.732,0.401
+Imagine Dragons,Whatever It Takes,2017,rock,3.35,80,0.672,0.556
+Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),2017,"hip hop, pop",3.61,75,0.696,0.782
+G-Eazy,No Limit,2017,"hip hop, pop",4.09,0,0.838,0.405
+Playboi Carti,Magnolia,2017,hip hop,3.03,77,0.791,0.443
+Chord Overstreet,Hold On,2017,"pop, Folk/Acoustic",3.31,80,0.618,0.167
+Jax Jones,Breathe,2017,"hip hop, pop, Dance/Electronic",3.46,58,0.722,0.686
+Imagine Dragons,Believer,2017,rock,3.41,1,0.779,0.708
+Natti Natasha,Criminal,2017,"pop, latin",3.88,74,0.814,0.839
+Kendrick Lamar,HUMBLE.,2017,hip hop,2.95,0,0.906,0.423
+Selena Gomez,Fetish (feat. Gucci Mane),2017,pop,3.1,69,0.708,0.265
+Charlie Puth,Attention,2017,pop,3.52,0,0.774,0.777
+Big Shaq,Man's Not Hot,2017,"pop, Dance/Electronic",3.1,62,0.905,0.588
+Anne-Marie,Ciao Adios,2017,"pop, Dance/Electronic",3.34,57,0.698,0.445
+Rag'n'Bone Man,Human,2017,R&B,3.34,76,0.602,0.554
+blackbear,do re mi,2017,"hip hop, pop, Dance/Electronic",3.53,4,0.745,0.17
+Lil Pump,Gucci Gang,2017,hip hop,2.07,64,0.936,0.699
+Taylor Swift,Look What You Made Me Do,2017,pop,3.53,76,0.766,0.506
+Enrique Iglesias,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),2017,"pop, latin",3.46,70,0.688,0.66
+Kodak Black,Tunnel Vision,2017,hip hop,4.47,51,0.497,0.231
+Kendrick Lamar,DNA.,2017,hip hop,3.1,0,0.636,0.394
+A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),2017,hip hop,3.49,0,0.839,0.814
+XXXTENTACION,Jocelyn Flores,2017,hip hop,1.99,83,0.872,0.437
+Migos,Bad and Boujee (feat. Lil Uzi Vert),2017,"hip hop, pop",5.72,72,0.926,0.168
+Yo Gotti,Rake It Up (feat. Nicki Minaj),2017,"hip hop, pop",4.61,67,0.91,0.53
+Martin Garrix,Scared to Be Lonely,2017,"pop, Dance/Electronic",3.68,77,0.584,0.195
+Jonas Blue,Mama,2017,"pop, Dance/Electronic",3.03,51,0.739,0.547
+Martin Jensen,Solo Dance,2016,"pop, Dance/Electronic",2.92,0,0.744,0.36
+Taylor Swift,...Ready For It?,2017,pop,3.47,73,0.613,0.417
+David Guetta,2U (feat. Justin Bieber),2017,"hip hop, pop, Dance/Electronic",3.25,67,0.548,0.557
+Migos,Slippery (feat. Gucci Mane),2017,"hip hop, pop",5.07,68,0.92,0.749
+Shawn Mendes,There's Nothing Holdin' Me Back,2017,pop,3.32,0,0.857,0.966
+G-Eazy,Good Life (with G-Eazy & Kehlani),2017,"hip hop, pop",3.76,63,0.572,0.54
+The Vamps,All Night,2017,pop,3.29,73,0.538,0.507
+Dua Lipa,New Rules,2017,pop,3.53,61,0.763,0.592
+Cardi B,Bodak Yellow,2017,"hip hop, pop",3.73,59,0.929,0.458
+Rag'n'Bone Man,Skin,2017,R&B,3.99,67,0.564,0.351
+Zara Larsson,I Would Like,2017,"pop, Dance/Electronic",3.78,57,0.486,0.297
+DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),2017,"hip hop, pop",3.4,72,0.671,0.632
+Post Malone,Congratulations,2016,hip hop,3.67,81,0.63,0.492
+Avicii,Without You (feat. Sandro Cavazza),2017,"pop, Dance/Electronic",3.03,77,0.662,0.295
+Clean Bandit,Symphony (feat. Zara Larsson),2017,"pop, Dance/Electronic",3.58,0,0.718,0.497
+Katy Perry,Chained To The Rhythm,2017,pop,3.96,69,0.562,0.471
+Zay Hilfigerrr,Juju on That Beat (TZ Anthem),2016,set(),2.4,57,0.807,0.78
+Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",2017,"hip hop, pop, Dance/Electronic",3.72,79,0.893,0.872
+Migos,T-Shirt,2017,"hip hop, pop",4.04,64,0.865,0.486
+OneRepublic,Rich Love (with Seeb),2017,pop,3.35,64,0.401,0.472
+Maggie Lindemann,Pretty Girl - Cheat Codes X CADE Remix,2017,"rock, pop",3.23,61,0.703,0.733
+Macklemore,Glorious (feat. Skylar Grey),2017,"hip hop, pop",3.67,74,0.731,0.356
+Hayden James,NUMB,2019,"pop, Dance/Electronic",3.62,47,0.617,0.4
+Liam Payne,Strip That Down,2017,pop,3.41,1,0.869,0.527
+Drake,Passionfruit,2017,"hip hop, pop, R&B",4.98,0,0.809,0.364
+Justin Bieber,Friends (with BloodPop®),2017,pop,3.16,0,0.744,0.649
+ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",2016,"pop, Dance/Electronic",4.09,0,0.735,0.0862
+Alessia Cara,Scars To Your Beautiful,2016,"pop, R&B",3.84,76,0.319,0.449
+2 Chainz,It's A Vibe,2017,"hip hop, pop",3.5,71,0.822,0.525
+Starley,Call on Me - Ryan Riback Remix,2016,"pop, Dance/Electronic",3.7,48,0.67,0.716
+AJR,Weak,2017,rock,3.35,0,0.673,0.678
+Lana Del Rey,Lust for Life (with The Weeknd),2017,pop,4.4,0,0.499,0.295
+CNCO,Reggaetón Lento (Remix),2017,"pop, latin",3.15,0,0.623,0.651
+The Vamps,Middle Of The Night,2017,pop,2.91,61,0.588,0.397
+The Weeknd,I Feel It Coming,2016,"pop, R&B",4.49,78,0.773,0.585
+The Chainsmokers,Paris,2017,"pop, Dance/Electronic",3.69,73,0.653,0.219
+Big Sean,Bounce Back,2017,"hip hop, pop",3.71,71,0.78,0.273
+Shawn Mendes,Mercy,2017,pop,3.48,0,0.561,0.383
+Avicii,Lonely Together (feat. Rita Ora),2017,"pop, Dance/Electronic",3.03,53,0.655,0.272
+Cheat Codes,No Promises (feat. Demi Lovato),2017,"pop, Dance/Electronic",3.73,68,0.741,0.595
+Bruno Mars,24K Magic,2016,pop,3.77,78,0.818,0.632
+Lorde,Homemade Dynamite - REMIX,2017,"pop, Dance/Electronic",3.57,8,0.781,0.175
+Kygo,It Ain't Me (with Selena Gomez),2017,"pop, Dance/Electronic",3.68,75,0.64,0.515
+Drake,God's Plan,2018,"hip hop, pop, R&B",3.32,81,0.754,0.357
+Post Malone,rockstar (feat. 21 Savage),2018,hip hop,3.64,83,0.585,0.129
+Offset,Ric Flair Drip (with Metro Boomin),2017,"hip hop, pop",2.88,80,0.88,0.333
+G-Eazy,Him & I (with Halsey),2017,"hip hop, pop",4.48,75,0.589,0.191
+Dynoro,In My Mind,2018,"pop, Dance/Electronic",3.08,78,0.694,0.163
+Juice WRLD,Lucid Dreams,2018,hip hop,4.0,84,0.511,0.218
+Zedd,The Middle,2018,"hip hop, pop, Dance/Electronic",3.08,80,0.753,0.437
+Marshmello,FRIENDS,2018,"pop, Dance/Electronic",3.38,78,0.626,0.534
+Cardi B,I Like It,2018,"hip hop, pop",4.22,79,0.816,0.65
+XXXTENTACION,Moonlight,2018,hip hop,2.25,82,0.921,0.711
+Ariana Grande,no tears left to cry,2018,pop,3.43,77,0.699,0.354
+Sheck Wes,Mo Bamba,2018,hip hop,3.07,77,0.729,0.261
+Calvin Harris,One Kiss (with Dua Lipa),2018,"hip hop, pop, Dance/Electronic",3.58,81,0.791,0.592
+Tyga,Taste (feat. Offset),2018,"hip hop, pop",3.88,73,0.884,0.342
+Travis Scott,SICKO MODE,2018,"hip hop, Dance/Electronic",5.21,81,0.834,0.446
+Imagine Dragons,Natural,2018,rock,3.16,80,0.704,0.22
+DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",2018,"hip hop, pop, Dance/Electronic",3.54,76,0.842,0.617
+Marshmello,Spotlight,2018,"pop, Dance/Electronic",2.96,71,0.546,0.615
+The Weeknd,Pray For Me (with Kendrick Lamar),2018,"pop, R&B",3.52,69,0.735,0.188
+Billie Eilish,lovely (with Khalid),2018,"pop, Dance/Electronic",3.34,86,0.351,0.12
+Migos,Walk It Talk It,2018,"hip hop, pop",4.6,75,0.907,0.395
+Clean Bandit,Solo (feat. Demi Lovato),2018,"pop, Dance/Electronic",3.71,71,0.737,0.565
+Drake,Nonstop,2018,"hip hop, pop, R&B",3.98,77,0.912,0.423
+6ix9ine,FEFE,2018,hip hop,2.99,42,0.931,0.376
+The Weeknd,Call Out My Name,2018,"pop, R&B",3.81,80,0.461,0.175
+Nio Garcia,Te Boté - Remix,2018,latin,6.97,76,0.903,0.442
+Migos,MotorSport,2018,"hip hop, pop",5.05,72,0.904,0.188
+Nicky Jam,X,2019,latin,2.88,74,0.594,0.694
+XXXTENTACION,SAD!,2018,hip hop,2.78,82,0.74,0.473
+Becky G,Sin Pijama,2018,"pop, latin",3.14,69,0.791,0.82
+Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",2017,"hip hop, pop",3.38,71,0.653,0.216
+6ix9ine,GUMMO,2018,hip hop,2.63,63,0.66,0.635
+The Chainsmokers,Sick Boy,2018,"pop, Dance/Electronic",3.22,69,0.663,0.454
+Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)",2018,"hip hop, pop",3.83,71,0.645,0.376
+Rich The Kid,Plug Walk,2018,"hip hop, pop",2.92,72,0.876,0.158
+Kendrick Lamar,All The Stars (with SZA),2018,hip hop,3.87,80,0.698,0.552
+Logic,Everyday,2018,"hip hop, pop",3.41,69,0.667,0.422
+Jason Derulo,Tip Toe (feat. French Montana),2017,"hip hop, pop",3.13,64,0.845,0.62
+Ariana Grande,God is a woman,2018,pop,3.29,78,0.602,0.268
+Rae Sremmurd,Powerglide (feat. Juicy J) - From SR3MM,2018,"hip hop, pop",5.54,66,0.713,0.584
+EO,German,2018,set(),2.85,67,0.862,0.852
+Dennis Lloyd,Nevermind,2017,pop,2.61,74,0.6,0.0793
+girl in red,we fell in love in october,2018,"pop, rock, Dance/Electronic",3.07,82,0.566,0.237
+Selena Gomez,Wolves,2017,pop,3.3,78,0.724,0.306
+Tiësto,Jackie Chan,2018,"pop, Dance/Electronic",3.6,72,0.747,0.687
+Tom Walker,Leave a Light On,2017,"rock, pop",3.1,70,0.586,0.267
+Sofía Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",2018,"pop, latin",3.36,65,0.792,0.794
+Marshmello,Silence,2017,"pop, Dance/Electronic",3.01,80,0.52,0.286
+5 Seconds of Summer,Youngblood,2018,pop,3.39,69,0.596,0.152
+Loud Luxury,Body (feat. brando),2017,"pop, Dance/Electronic",2.72,0,0.752,0.582
+Liam Payne,For You (Fifty Shades Freed) (& Rita Ora),2018,pop,4.09,62,0.541,0.2
+NF,Let You Down,2017,"hip hop, pop",3.54,79,0.662,0.464
+XXXTENTACION,changes,2018,hip hop,2.03,79,0.669,0.52
+Maluma,Corazón (feat. Nego do Borel),2018,latin,3.08,69,0.722,0.748
+Cardi B,Bodak Yellow,2018,"hip hop, pop",3.73,72,0.926,0.485
+Lil Baby,Yes Indeed,2018,hip hop,2.37,79,0.963,0.562
+Jonas Blue,Rise,2018,"pop, Dance/Electronic",3.24,70,0.687,0.655
+David Guetta,Flames,2018,"hip hop, pop, Dance/Electronic",3.24,59,0.631,0.421
+Ozuna,Vaina Loca,2018,latin,2.94,72,0.754,0.555
+Charlie Puth,How Long,2018,pop,3.35,72,0.845,0.811
+Post Malone,Better Now,2018,hip hop,3.85,80,0.68,0.341
+BlocBoy JB,Look Alive (feat. Drake),2018,"hip hop, pop",3.02,73,0.922,0.595
+Eminem,River (feat. Ed Sheeran),2017,hip hop,3.68,72,0.748,0.659
+Marshmello,Happier,2018,"pop, Dance/Electronic",3.57,82,0.687,0.671
+Dean Lewis,Be Alright,2018,pop,3.27,79,0.553,0.443
+Charlie Puth,Done for Me (feat. Kehlani),2018,pop,3.01,67,0.856,0.697
+Migos,Stir Fry,2018,"hip hop, pop",3.17,72,0.817,0.508
+YG,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",2018,"hip hop, pop",3.95,68,0.745,0.112
+Drake,In My Feelings,2018,"hip hop, pop, R&B",3.63,75,0.835,0.35
+B Young,Jumanji,2018,"hip hop, Dance/Electronic",2.89,60,0.791,0.603
+Charlie Puth,The Way I Am,2018,pop,3.1,64,0.755,0.642
+Reik,Me Niego (feat. Ozuna & Wisin),2018,"pop, latin",3.69,1,0.777,0.768
+benny blanco,Eastside (with Halsey & Khalid),2018,"hip hop, pop",2.9,75,0.56,0.319
+Luis Fonsi,Échame La Culpa,2017,"pop, latin",2.9,62,0.733,0.675
+MK,17,2017,"pop, Dance/Electronic",3.27,65,0.703,0.667
+Rita Ora,Anywhere,2017,"hip hop, pop, Dance/Electronic",3.58,63,0.628,0.321
+Banx & Ranx,Answerphone (feat. Yxng Bane),2018,Dance/Electronic,3.18,56,0.671,0.454
+Ella Mai,Trip,2018,"hip hop, pop, R&B",3.57,72,0.477,0.358
+Daddy Yankee,Dura,2018,latin,3.34,71,0.783,0.839
+DJ Khaled,No Brainer,2018,"hip hop, pop",4.33,67,0.552,0.639
+Anne-Marie,2002,2018,"pop, Dance/Electronic",3.12,80,0.697,0.603
+Bruno Mars,Finesse - Remix; feat. Cardi B,2017,pop,3.62,74,0.704,0.926
+FINNEAS,Let's Fall in Love for the Night,2018,"rock, pop, Dance/Electronic",3.17,71,0.737,0.374
+Hugh Jackman,The Greatest Show,2017,easy listening,5.04,72,0.417,0.4
+Halsey,Bad At Love,2017,"pop, Dance/Electronic",3.02,72,0.675,0.612
+Drake,I'm Upset,2018,"hip hop, pop, R&B",3.57,68,0.899,0.492
+Camila Cabello,Never Be the Same,2018,pop,3.78,74,0.637,0.243
+M.O,Bad Vibe,2018,"pop, Dance/Electronic",3.57,54,0.813,0.758
+Dua Lipa,IDGAF,2017,pop,3.63,78,0.836,0.51
+Cashmere Cat,Miss You (with Major Lazer & Tory Lanez),2018,"pop, rock",3.1,56,0.747,0.453
+Bazzi,Mine,2018,"pop, Dance/Electronic",2.18,75,0.71,0.717
+Lil Dicky,Freaky Friday (feat. Chris Brown),2018,"hip hop, pop",3.61,70,0.755,0.755
+Lauv,I Like Me Better,2018,"pop, Dance/Electronic",3.29,81,0.752,0.419
+The Chainsmokers,This Feeling,2018,"pop, Dance/Electronic",3.3,73,0.575,0.449
+Maroon 5,Girls Like You (feat. Cardi B) - Cardi B Version,2018,pop,3.93,73,0.851,0.448
+Khalid,Love Lies (with Normani),2018,"pop, R&B",3.36,73,0.708,0.338
+Drake,Nice For What,2018,"hip hop, pop, R&B",3.51,77,0.585,0.758
+Kendrick Lamar,LOVE. FEAT. ZACARI.,2017,hip hop,3.56,80,0.8,0.779
+Post Malone,Psycho (feat. Ty Dolla $ign),2018,hip hop,3.69,77,0.75,0.459
+Lil Nas X,Old Town Road - Remix,2019,"hip hop, pop",2.62,79,0.878,0.639
+Billie Eilish,bad guy,2019,"pop, Dance/Electronic",3.23,83,0.701,0.562
+Shawn Mendes,Señorita,2019,pop,3.18,78,0.759,0.749
+Ariana Grande,7 rings,2019,pop,2.98,83,0.778,0.327
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2019,hip hop,2.63,79,0.755,0.925
+Gesaffelstein,Lost in the Fire (feat. The Weeknd),2019,Dance/Electronic,3.37,84,0.658,0.166
+Halsey,Without Me,2018,"pop, Dance/Electronic",3.36,77,0.752,0.533
+Regard,Ride It,2019,"pop, Dance/Electronic",2.63,81,0.88,0.884
+Lady Gaga,Shallow,2018,pop,3.6,82,0.572,0.323
+Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),2018,pop,3.62,79,0.601,0.244
+Lewis Capaldi,Someone You Loved,2019,pop,3.04,84,0.501,0.446
+Jax Jones,All Day And Night,2019,"hip hop, pop, Dance/Electronic",2.82,60,0.585,0.521
+Mustard,Pure Water (with Migos),2019,"hip hop, pop",3.21,75,0.682,0.137
+NLE Choppa,Shotta Flow (feat. Blueface) [Remix],2019,hip hop,2.94,0,0.894,0.568
+Kodak Black,ZEZE (feat. Travis Scott & Offset),2018,hip hop,3.81,77,0.861,0.504
+Daddy Yankee,Con Calma,2019,latin,3.22,79,0.737,0.656
+Alec Benjamin,Let Me Down Slowly,2018,"rock, pop, Dance/Electronic",2.82,82,0.652,0.483
+BLACKPINK,Kill This Love,2019,pop,3.15,1,0.738,0.58
+Offset,Clout (feat. Cardi B),2019,"hip hop, pop",3.43,68,0.919,0.424
+MEDUZA,Piece Of Your Heart,2019,"pop, Dance/Electronic",2.55,75,0.677,0.631
+Ed Sheeran,Antisocial (with Travis Scott),2019,pop,2.7,63,0.716,0.91
+Mabel,Mad Love,2019,"pop, Dance/Electronic",2.83,0,0.631,0.62
+Lana Del Rey,Doin' Time,2019,pop,3.37,80,0.641,0.523
+DJ Snake,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",2019,"hip hop, pop, Dance/Electronic",3.54,70,0.842,0.617
+A Boogie Wit da Hoodie,Look Back at It,2018,hip hop,2.99,73,0.791,0.536
+Saweetie,My Type,2019,"hip hop, pop, R&B",2.11,71,0.899,0.587
+Lil Tecca,Ransom,2019,hip hop,2.19,78,0.745,0.226
+Russ Millions,Keisha & Becky - Remix,2019,pop,4.22,69,0.863,0.644
+Mabel,Don't Call Me Up,2019,"pop, Dance/Electronic",2.97,77,0.674,0.234
+Lil Nas X,Old Town Road,2019,"hip hop, pop",1.88,76,0.907,0.507
+Meek Mill,Going Bad (feat. Drake),2018,"hip hop, pop",3.01,78,0.889,0.544
+Post Malone,Wow.,2019,hip hop,2.49,79,0.829,0.388
+Doja Cat,Juicy,2019,pop,3.37,57,0.786,0.458
+A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),2018,hip hop,3.16,75,0.581,0.434
+iann dior,emotions,2019,"hip hop, pop",2.19,72,0.63,0.163
+Paulo Londra,Adan y Eva,2019,"hip hop, latin, Dance/Electronic",4.28,72,0.767,0.72
+Drake,Money In The Grave (Drake ft. Rick Ross),2019,"hip hop, pop, R&B",3.42,76,0.831,0.101
+Lil Nas X,Panini,2019,"hip hop, pop",1.91,71,0.703,0.475
+Bad Bunny,MIA (feat. Drake),2018,latin,3.51,77,0.817,0.158
+Polo G,Pop Out (feat. Lil Tjay),2019,hip hop,2.78,78,0.772,0.261
+Juice WRLD,Robbery,2019,hip hop,4.0,53,0.685,0.578
+21 Savage,a lot,2018,hip hop,4.81,78,0.837,0.274
+Young Thug,The London (feat. J. Cole & Travis Scott),2019,"hip hop, pop",3.34,69,0.796,0.179
+Anuel AA,China,2019,latin,5.03,76,0.786,0.609
+Camila Cabello,Liar,2019,pop,3.45,65,0.74,0.652
+Flipp Dinero,Leave Me Alone,2019,"hip hop, pop",3.26,69,0.792,0.742
+Cardi B,Money,2018,"hip hop, pop",3.06,73,0.95,0.219
+Ariana Grande,"break up with your girlfriend, i'm bored",2019,pop,3.17,76,0.726,0.335
+Dave,Location (feat. Burna Boy),2019,hip hop,4.02,78,0.812,0.55
+Ava Max,Sweet but Psycho,2018,pop,3.12,7,0.719,0.628
+Dua Lipa,Don't Start Now,2019,pop,3.05,79,0.794,0.677
+Young T & Bugsey,Strike a Pose (feat. Aitch),2019,hip hop,3.57,61,0.531,0.591
+Calvin Harris,Giant (with Rag'n'Bone Man),2019,"hip hop, pop, Dance/Electronic",3.82,73,0.807,0.606
+Ed Sheeran,Take Me Back to London (feat. Stormzy),2019,pop,3.16,66,0.885,0.605
+Cardi B,Please Me,2019,"hip hop, pop",3.35,73,0.747,0.65
+Stormzy,Vossi Bop,2019,"hip hop, Dance/Electronic",3.27,64,0.682,0.428
+Tones And I,Dance Monkey,2019,pop,3.49,78,0.824,0.513
+Ariana Grande,boyfriend (with Social House),2019,pop,3.1,77,0.4,0.702
+Bad Bunny,Callaita,2019,latin,4.18,81,0.61,0.244
+Ava Max,So Am I,2019,pop,3.05,4,0.682,0.607
+Pedro Capó,Calma - Remix,2018,"pop, latin",3.97,74,0.826,0.761
+J. Cole,MIDDLE CHILD,2019,hip hop,3.56,80,0.837,0.463
+Lunay,Soltera - Remix,2019,"pop, latin",4.43,70,0.795,0.799
+Khalid,Better,2018,"pop, R&B",3.82,70,0.442,0.116
+Blueface,Thotiana,2018,hip hop,2.15,1,0.906,0.391
+DaBaby,Suge,2019,hip hop,2.72,72,0.876,0.844
+AJ Tracey,Ladbroke Grove,2019,"hip hop, Dance/Electronic",3.18,69,0.903,0.727
+Billie Eilish,bury a friend,2019,"pop, Dance/Electronic",3.22,75,0.905,0.196
+BTS,Boy With Luv (feat. Halsey),2019,pop,3.83,35,0.645,0.798
+Wiley,Boasty (feat. Idris Elba),2019,"hip hop, Dance/Electronic",2.95,64,0.887,0.456
+Jonas Brothers,Only Human,2019,pop,3.05,71,0.795,0.874
+5 Seconds of Summer,Easier,2019,pop,2.62,1,0.505,0.618
+Avicii,SOS (feat. Aloe Blacc),2019,"pop, Dance/Electronic",2.62,71,0.802,0.376
+"Tyler, The Creator",EARFQUAKE,2019,hip hop,3.17,80,0.554,0.413
+Ashley O,On A Roll,2019,set(),2.57,57,0.736,0.387
+Dominic Fike,3 Nights,2018,"rock, pop",2.96,78,0.815,0.877
+Sigala,Wish You Well,2019,"pop, Dance/Electronic",3.43,64,0.669,0.576
+Megan Thee Stallion,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),2019,"hip hop, pop, R&B",3.32,69,0.872,0.57
+Anuel AA,Secreto,2019,latin,4.31,75,0.807,0.706
+Sam Feldt,Post Malone (feat. RANI),2019,"pop, Dance/Electronic",2.91,69,0.59,0.651
+Kehlani,Nights Like This (feat. Ty Dolla $ign),2019,"hip hop, pop, R&B",3.36,74,0.61,0.291
+Sech,Otro Trago,2019,latin,3.77,71,0.746,0.619
+Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),2019,pop,3.44,64,0.746,0.607
+Lauv,i'm so tired...,2019,"pop, Dance/Electronic",2.71,2,0.599,0.534
+iann dior,gone girl,2019,"hip hop, pop",2.28,69,0.677,0.355
+Panic! At The Disco,High Hopes,2018,rock,3.18,80,0.579,0.681
+Marshmello,One Thing Right,2019,"pop, Dance/Electronic",3.03,73,0.659,0.442
+Sam Smith,How Do You Sleep?,2019,pop,3.37,73,0.477,0.345
+Normani,Motivation,2019,"pop, R&B",3.23,71,0.599,0.881
+Joel Corry,Sorry,2019,"pop, Dance/Electronic",3.14,63,0.744,0.847
+Post Malone,Goodbyes (Feat. Young Thug),2019,hip hop,2.92,1,0.58,0.175
+Jonas Brothers,Sucker,2019,pop,3.02,79,0.842,0.952
+Taylor Swift,Cruel Summer,2019,pop,2.97,78,0.552,0.564
+Blanco Brown,The Git Up,2019,"hip hop, country",3.34,69,0.847,0.811
+Sam Smith,Dancing With A Stranger (with Normani),2019,pop,2.85,75,0.741,0.347
+Post Malone,Circles,2019,hip hop,3.59,85,0.695,0.553
