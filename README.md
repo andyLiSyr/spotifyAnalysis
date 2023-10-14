@@ -5,3 +5,30 @@
 As a music lover, I've often wanted to dive into the world of music for data analysis. After spending some time exploring potential music related I came across the Spotify Top Hits dataset on Kaggle which I thought was perfect for my first music related data analysis.
 
 Link to original dataset: [Click Here](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019)
+
+## Questions to Answer
+
+Below are questions I wanted to answer regarding the dataset:
+
+1. What are the top 5 most popular songs?
+2. What are the top 5 artists based on most hits?
+3. What are the top 5 most popular genres?
+   - 3.1 What is the trend of each of these genres over time?
+   - 3.2 How danceable is each of these genres?
+4. How has the average duration of songs changed over time?
+5. How has the mood of songs changed over time?
+
+## Approach
+
+#### Data Cleaning
+- Performed data cleaning tasks using Pandas in a Jupyter Notebook
+- Identified and removed outlier values
+- Eliminated duplicate data entries
+- Conducted a thorough check for null values to ensure data integrity
+
+Visit the Data section to learn more about the data cleaning process
+
+#### Data Analysis
+- Performed analysis on the cleaned dataset using Pandas in a Jupyter Notebook
+- Employed data visualization libraries like Matplotlib and Seaborn to create informative plots and graphs on insights
+- Utilized Python libraries like NumPy and scikit-learn for linear regression to identify possible trends in data
