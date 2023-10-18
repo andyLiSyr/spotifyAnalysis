@@ -32,3 +32,14 @@ Visit the Data section to learn more about the data cleaning process
 - Performed analysis on the cleaned dataset using Pandas in a Jupyter Notebook
 - Employed data visualization libraries like Matplotlib and Seaborn to create informative plots and graphs on insights
 - Utilized Python libraries like NumPy and scikit-learn for linear regression to identify possible trends in data
+
+## Files in this Repo
+Data Folder
+- original_spotify_data.csv: The original dataset downloaded from Kaggle. NOTE: I renamed the dataset to original_spotify_data so don't be confused if the file name is different for you if you download the data from Kaggle
+- cleaning_spotify_data.ipynb: The data cleaning code
+- cleaned_spotify.csv: The cleaned version of the dataset
+
+Analysis Folder
+- spotifyAnalysis.ipynb: The analysis code on the cleaned_spotify.csv data
+
+Charts Folder: The folder contains all the visualizations that were created in the analysis code as image files
